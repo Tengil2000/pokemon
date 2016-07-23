@@ -32,6 +32,8 @@ class PokemonClass(Enum):
     Steel    = 1250
     Water    = 1260
 
+
+
 class State(Enum):
     """Pokemon state that will affect the result"""
     asleep    = 25

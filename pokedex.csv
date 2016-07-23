@@ -1,0 +1,663 @@
+Bulbasaur,1,1,45,49,49,65,65,45,318,Grass,Poison,NU,Overgrow,,Chlorophyll,6.9,20,1 SpA,64,Green,5120,M (87.5%),Monster,Grass,45,1059860,,1,1,226,,,
+Shedinja,292,317,1,90,45,30,30,40,236,Bug,Ghost,NU,Wonder Guard,null,null,1.2,20,2 HP,95,Brown,null,None,Mineral,null,45,600000,Lv. 20 t/ Empty Space,317,292,null,44,null,null
+Abomasnow,460,478,90,92,75,92,85,60,494,Ice,Grass,UU,Snow Warning,null,Soundproof,135.5,100,1 Atk/1 SpA,214,White,null,Neutral,Monster,Grass,60,1250000,Lv. 40,478,460,null,null,143,null
+Abra,63,69,25,20,15,105,55,90,310,Psychic,null,NU,Synchronize,Inner Focus,Magic Guard,19.5,40,1 SpA,75,Brown,5120,M (75%),Human-Like,null,200,1059860,null,69,63,89,39,20,null
+Absol,359,388,65,130,60,75,60,75,465,Dark,null,NU,Pressure,Super Luck,Justified,47,60,2 Atk,174,White,6400,Neutral,Field,null,30,1059860,N,388,359,null,152,209,null
+Accelgor,617,617,80,70,40,100,60,145,495,Bug,null,NU,Hydration,Sticky Hold,Unburden,25.3,60,2 Spe,173,Red,null,Neutral,Bug,null,75,1000000,Trade w/ Karrablast,617,617,null,null,null,123
+Aerodactyl,142,172,80,105,65,60,75,130,515,Rock,Flying,UU,Rock Head,Pressure,Unnerve,59,80,2 Spe,202,Purple,8960,M (87.5%),Flying,null,45,1250000,N,172,142,224,null,null,null
+Aggron,306,331,70,110,180,60,60,50,530,Steel,Rock,RU,Sturdy,Rock Head,Heavy Metal,360,120,3 Def,205,Gray,null,Neutral,Monster,null,45,1250000,Lv. 42,331,306,null,72,null,null
+Aipom,190,218,55,70,55,40,55,85,360,Normal,null,NU,Run Away,Pickup,Skill Link,11.5,40,1 Spe,94,Purple,5120,Neutral,Field,null,45,800000,null,218,190,122,null,63,null
+Alakazam,65,71,55,50,45,135,85,120,490,Psychic,null,RU,Synchronize,Inner Focus,Magic Guard,48,60,3 SpA,186,Brown,null,M (75%),Human-Like,null,50,1059860,Trade,71,65,91,41,22,null
+Alomomola,594,594,165,75,80,40,45,65,470,Water,null,NU,Healer,Hydration,Regenerator,31.6,60,2 HP,165,Pink,10240,Neutral,Water 1,Water 2,75,800000,N,594,594,null,null,null,100
+Altaria,334,361,75,70,90,70,105,80,490,Dragon,Flying,NU,Natural Cure,null,Cloud Nine,20.6,40,2 SpD,188,Blue,null,Neutral,Flying,Dragon,45,600000,Lv. 35,361,334,null,122,172,null
+Ambipom,424,219,75,100,66,60,66,115,482,Normal,null,UU,Technician,Pickup,Skill Link,20.3,40,2 Spe,186,Purple,null,Neutral,Field,null,45,800000,Level w/ Double Hit,219,424,null,null,64,null
+Amoonguss,591,591,114,85,70,85,80,30,464,Grass,Poison,RU,Effect Spore,null,Regenerator,10.5,40,2 HP,162,White,null,Neutral,Grass,null,75,1000000,Lv. 39,591,591,null,null,null,97
+Ampharos,181,209,90,75,75,115,90,55,500,Electric,null,NU,Static,null,Plus,61.5,80,3 SpA,194,Yellow,null,Neutral,Monster,Field,45,1059860,Lv. 30,209,181,55,null,null,null
+Anorith,347,374,45,95,50,40,50,75,355,Rock,Bug,NU,Battle Armor,null,Swift Swim,12.5,40,1 Atk,99,Gray,7680,M (87.5%),Water 3,null,45,600000,null,374,347,null,135,null,null
+Arbok,24,24,60,85,69,65,79,80,438,Poison,null,NU,Intimidate,Shed Skin,Unnerve,65,80,2 Atk,147,Purple,null,Neutral,Field,Dragon,90,1000000,Lv. 22,24,24,51,null,null,null
+Arcanine,59,64,90,110,80,100,80,95,555,Fire,null,UU,Intimidate,Flash Fire,Justified,155,100,2 Atk,213,Brown,null,M (75%),Field,null,75,1250000,Fire Stone,64,59,128,null,null,null
+Arceus,493,493,120,120,120,120,120,120,720,Normal,null,Uber,Multitype,null,null,320,120,3 HP,255,Gray,NONE,None,-,null,3,1250000,N,493,493,null,null,null,null
+Archen,566,566,55,112,45,74,45,70,401,Rock,Flying,NU,Defeatist,null,null,9.5,20,1 Atk,71,Yellow,7680,M (87.5%),Flying,Water 3,45,1000000,null,566,566,null,null,null,72
+Archeops,567,567,75,140,65,112,65,110,567,Rock,Flying,NU,Defeatist,null,null,32,60,2 Atk,177,Yellow,null,M (87.5%),Flying,Water 3,45,1000000,Lv. 37,567,567,null,null,null,73
+Ariados,168,199,70,90,70,60,60,40,390,Bug,Poison,NU,Swarm,Insomnia,Sniper,33.5,60,2 Atk,134,Red,null,Neutral,Bug,null,90,800000,Lv. 22,199,168,33,null,null,null
+Armaldo,348,375,75,125,100,70,80,45,495,Rock,Bug,NU,Battle Armor,null,Swift Swim,68.2,80,2 Atk,199,Gray,null,M (87.5%),Water 3,null,45,600000,Lv. 40,375,348,null,136,null,null
+Aron,304,329,50,70,100,40,40,30,330,Steel,Rock,NU,Sturdy,Rock Head,Heavy Metal,60,80,1 Def,96,Gray,8960,Neutral,Monster,null,180,1250000,null,329,304,null,70,null,null
+Articuno,144,175,90,85,100,95,125,85,580,Ice,Flying,NU,Pressure,null,Snow Cloak,55.4,80,3 SpD,215,Blue,NONE,None,-,null,3,1250000,N,175,144,235,null,null,null
+Audino,531,531,103,60,86,60,86,50,445,Normal,null,NU,Healer,Regenerator,Klutz,31,60,2 HP,390,Pink,5120,Neutral,Fairy,null,255,800000,N,531,531,null,null,null,37
+Axew,610,610,46,87,60,30,40,57,320,Dragon,null,NU,Rivalry,Mold Breaker,Unnerve,18,40,1 Atk,64,Green,10240,Neutral,Monster,Dragon,75,1250000,null,610,610,null,null,null,116
+Azelf,482,482,75,125,70,125,70,115,580,Psychic,null,UU,Levitate,null,null,0.3,20,2 Atk/1 SpA,210,Blue,NONE,None,-,null,3,1250000,N,482,482,null,null,148,null
+Azumarill,184,212,100,50,80,50,80,50,410,Water,null,UU,Thick Fat,Huge Power,Sap Sipper,28.5,60,3 HP,153,Blue,null,Neutral,Water 1,Fairy,75,800000,Lv. 18,212,184,131,56,126,null
+Azurill,298,210,50,20,40,20,40,20,190,Normal,null,NU,Thick Fat,Huge Power,Sap Sipper,2,20,1 HP,33,Blue,2560,M (75%),-,null,150,800000,null,210,298,null,54,124,null
+Bagon,371,400,45,75,60,40,30,50,300,Dragon,null,NU,Rock Head,null,Sheer Force,42.1,60,1 Atk,89,Blue,10240,Neutral,Dragon,null,45,1250000,null,400,371,null,187,null,null
+Baltoy,343,370,40,40,55,40,70,55,300,Ground,Psychic,NU,Levitate,null,null,21.5,40,1 SpD,58,Brown,5120,None,Mineral,null,255,1000000,null,370,343,null,131,null,null
+Banette,354,381,64,115,65,83,63,65,455,Ghost,null,NU,Insomnia,Frisk,Cursed Body,12.5,40,2 Atk,179,Black,null,Neutral,Amorphous,null,45,800000,Lv. 37,381,354,null,147,null,null
+Barboach,339,366,50,48,43,46,41,60,288,Water,Ground,NU,Oblivious,Anticipate,Hydration,1.9,20,1 HP,92,Gray,5120,Neutral,Water 2,null,190,1000000,null,366,339,null,127,80,null
+Basculin,550,550,70,92,65,80,55,98,460,Water,null,NU,Reckless,Adaptability,Mold Breaker,18,40,2 Spe,161,Green,10240,Neutral,Water 2,null,25,1000000,N,550,550,null,null,null,56
+Bastiodon,411,438,60,52,168,47,138,30,495,Rock,Steel,NU,Sturdy,null,Soundproof,149.5,100,2 Def,199,Gray,null,M (87.5%),Monster,null,45,600000,Lv. 30,438,411,null,null,39,null
+Bayleef,153,184,60,62,80,63,80,69,414,Grass,null,NU,Overgrow,null,Leaf Guard,15.8,40,1 Def/1 SpD,141,Green,null,M (87.5%),Monster,Grass,45,1059860,Lv. 16,184,153,2,null,null,null
+Beartic,614,614,95,110,80,70,80,50,485,Ice,null,NU,Snow Cloak,null,Swift Swim,260,120,2 Atk,170,White,null,Neutral,Field,null,60,1000000,Lv. 37,614,614,null,null,null,120
+Beautifly,267,291,60,70,50,90,50,65,385,Bug,Flying,NU,Swarm,null,Rivalry,28.4,60,3 SpA,161,Yellow,null,Neutral,Bug,null,45,1000000,Lv. 10,291,267,null,16,50,null
+Beedrill,15,15,65,80,40,40,80,75,380,Bug,Poison,NU,Swarm,null,Sniper,29.5,60,2 Atk/1 SpD,159,Yellow,null,Neutral,Bug,null,45,1000000,Lv. 10,15,15,29,null,null,null
+Beheeyem,606,606,75,75,75,125,95,40,485,Psychic,null,NU,Telepathy,Synchronize,Analytic,34.5,60,2 SpA,170,Brown,null,Neutral,Human-Like,null,90,1000000,Lv. 42,606,606,null,null,null,112
+Beldum,374,403,40,55,80,35,60,30,300,Steel,Psychic,NU,Clear Body,null,Light Metal,95.2,80,1 Def,103,Blue,10240,None,Mineral,null,3,1250000,null,403,374,null,190,null,null
+Bellossom,182,50,75,80,85,90,100,50,480,Grass,null,NU,Chlorophyll,null,Healer,5.8,20,3 SpD,184,Green,null,Neutral,Grass,null,45,1059860,Sun Stone,50,182,86,91,null,null
+Bellsprout,69,75,50,75,35,70,30,40,300,Grass,Poison,NU,Chlorophyll,null,Gluttony,4,20,1 Atk,84,Green,5120,Neutral,Grass,null,255,1059860,null,75,69,64,null,null,null
+Bibarel,400,429,79,85,60,60,71,55,410,Normal,Water,NU,Simple,Unaware,Moody,31.5,60,2 Atk,116,Brown,null,Neutral,Water 1,Field,127,1000000,Lv. 15,429,400,null,null,14,null
+Bidoof,399,428,59,45,40,35,40,31,250,Normal,null,NU,Simple,Unaware,Moody,20,40,1 HP,58,Brown,3840,Neutral,Water 1,Field,255,1000000,null,428,399,null,null,13,null
+Bisharp,625,625,65,125,100,60,70,70,490,Dark,Steel,UU,Defiant,Inner Focus,Pressure,70,80,2 Atk,172,Red,null,Neutral,Human-Like,null,45,1000000,Lv. 52,625,625,null,null,null,131
+Blastoise,9,9,79,83,100,85,105,78,530,Water,null,RU,Torrent,null,Rain Dish,85.5,80,3 SpD,210,Blue,null,M (87.5%),Monster,Water 1,45,1059860,Lv. 36,9,9,234,null,null,null
+Blaziken,257,281,80,120,70,110,70,80,530,Fire,Fighting,Uber,Blaze,null,Speed Boost,52,80,3 Atk,209,Red,null,M (87.5%),Field,null,45,1059860,Lv. 36,281,257,null,6,null,null
+Blissey,242,128,255,10,10,75,135,55,540,Normal,null,OU,Natural Cure,Serene Grace,Healer,46.8,60,3 HP,255,Pink,null,F (100%),Fairy,null,30,800000,Friendship,128,242,218,null,98,null
+Blitzle,522,522,45,60,32,50,32,76,295,Electric,null,NU,Lightningrod,Motor Drive,Sap Sipper,29.8,60,1 Spe,59,Black,5120,Neutral,Field,null,190,1000000,null,522,522,null,null,null,28
+Boldore,525,525,70,105,105,50,40,20,390,Rock,null,NU,Sturdy,null,Sand Force,102,100,1 Atk/1 Def,137,Blue,null,Neutral,Mineral,null,120,1059860,Lv. 25,525,525,null,null,null,31
+Bonsly,438,213,50,80,95,10,45,10,290,Rock,null,NU,Sturdy,Rock Head,Rattled,15,40,1 Def,68,Brown,5120,Neutral,-,null,255,1000000,null,213,438,null,null,92,null
+Bouffalant,626,626,95,110,95,40,95,55,490,Normal,null,NU,Reckless,Sap Sipper,Soundproof,94.6,80,2 Atk,172,Brown,5120,Neutral,Field,null,45,1000000,N,626,626,null,null,null,132
+Braviary,628,628,100,123,75,57,75,80,510,Normal,Flying,NU,Keen Eye,Sheer Force,Defiant,41,60,2 Atk,179,Red,null,M (100%),Flying,null,60,1250000,Lv. 54,628,628,null,null,null,134
+Breloom,286,311,60,130,80,60,60,70,460,Grass,Fighting,OU,Effect Spore,Poison Heal,Technician,39.2,60,2 Atk,165,Green,null,Neutral,Fairy,Grass,90,1640000,Lv. 23,311,286,null,35,null,null
+Bronzong,437,460,67,89,116,79,116,33,500,Steel,Psychic,OU,Levitate,Heatproof,Heavy Metal,187,100,1 Def/1 SpD,188,Green,null,None,Mineral,null,90,1000000,Lv. 33,460,437,null,null,89,null
+Bronzor,436,459,57,24,86,24,86,23,300,Steel,Psychic,NU,Levitate,Heatproof,Heavy Metal,60.5,80,1 Def,72,Green,5120,None,Mineral,null,255,1000000,null,459,436,null,null,88,null
+Budew,406,340,40,30,35,50,70,55,280,Grass,Poison,NU,Natural Cure,Poison Point,Leaf Guard,1.2,20,1 SpA,68,Green,5120,Neutral,-,null,255,1059860,null,340,406,null,null,25,null
+Buizel,418,445,55,65,35,60,30,85,330,Water,null,NU,Swift Swim,null,Water Veil,29.5,60,1 Spe,75,Brown,5120,Neutral,Water 1,Field,190,1000000,null,445,418,null,null,56,null
+Buneary,427,453,55,66,44,44,56,85,350,Normal,null,NU,Run Away,Klutz,Limber,5.5,20,1 Spe,84,Brown,5120,Neutral,Field,Human-Like,190,1000000,null,453,427,null,null,67,null
+Burmy,412,439,40,29,45,29,45,36,224,Bug,null,NU,Shed Skin,null,Overcoat,3.4,20,1 SpD,61,Gray,3840,Neutral,Bug,null,120,1000000,null,439,412,null,null,45,null
+Butterfree,12,12,60,45,50,80,80,70,385,Bug,Flying,NU,Compoundeyes,null,Tinted Lens,32,60,2 SpA/1 SpD,160,White,null,Neutral,Bug,null,45,1000000,Lv. 10,12,12,26,null,null,null
+Cacnea,331,358,50,85,40,85,40,35,335,Grass,null,NU,Sand Veil,null,Water Absorb,51.3,80,1 SpA,97,Green,5120,Neutral,Grass,Human-Like,190,1059860,null,358,331,null,119,null,null
+Cacturne,332,359,70,115,60,115,60,55,475,Grass,Dark,NU,Sand Veil,null,Water Absorb,77.4,80,1 Atk/1 SpA,177,Green,null,Neutral,Grass,Human-Like,60,1059860,Lv. 32,359,332,null,120,null,null
+Camerupt,323,350,70,100,70,105,75,40,460,Fire,Ground,NU,Magma Armor,Solid Rock,Anger Point,220,120,1 Atk/1 SpA,175,Red,null,Neutral,Field,null,150,1000000,Lv. 33,350,323,null,102,null,null
+Carnivine,455,474,74,100,72,90,72,46,454,Grass,null,NU,Levitate,null,null,27,60,2 Atk,164,Green,6400,Neutral,Grass,null,200,1250000,N,474,455,null,null,131,null
+Carracosta,565,565,74,108,133,83,65,32,495,Water,Rock,NU,Solid Rock,Sturdy,Swift Swim,81,80,2 Def,173,Blue,null,M (87.5%),Water 1,Water 3,45,1000000,Lv. 37,565,565,null,null,null,71
+Carvanha,318,345,45,90,20,65,20,65,305,Water,Dark,NU,Rough Skin,null,Speed Boost,20.8,40,1 Atk,88,Red,5120,Neutral,Water 2,null,225,1250000,null,345,318,null,97,null,null
+Cascoon,268,292,50,35,55,25,25,15,205,Bug,null,NU,Shed Skin,null,null,11.5,40,2 Def,72,Purple,null,Neutral,Bug,null,120,1000000,Lv. 7,292,268,null,17,51,null
+Castform,351,378,70,70,70,70,70,70,420,Normal,null,NU,Forecast,null,null,0.8,20,1 HP,145,White,6400,Neutral,Fairy,Amorphous,45,1000000,N,378,351,null,142,null,null
+Caterpie,10,10,45,30,35,20,20,45,195,Bug,null,NU,Shield Dust,null,Run Away,2.9,20,1 HP,53,Green,3840,Neutral,Bug,null,255,1000000,null,10,10,24,null,null,null
+Celebi,251,275,100,100,100,100,100,100,600,Psychic,Grass,UU,Natural Cure,null,null,5,20,3 HP,64,Green,NONE,None,-,null,45,1059860,N,275,251,251,null,null,null
+Chandelure,609,609,60,55,90,145,90,80,520,Ghost,Fire,OU,Flash Fire,Flame Body,Shadow Tag,34.3,60,3 SpA,234,Black,null,Neutral,Amorphous,null,45,1059860,Dusk Stone,609,609,null,null,null,115
+Chansey,113,127,250,5,5,35,105,50,450,Normal,null,UU,Natural Cure,Serene Grace,Healer,34.6,60,2 HP,255,Pink,10240,F (100%),Fairy,null,30,800000,Morn/Day Fr. h/ Oval Stone,127,113,217,null,97,null
+Charizard,6,6,78,84,78,109,85,100,534,Fire,Flying,UU,Blaze,null,Solar Power,90.5,80,3 SpA,209,Red,null,M (87.5%),Monster,Dragon,45,1059860,Lv. 36,6,6,231,null,null,null
+Charmander,4,4,39,52,43,60,50,65,309,Fire,null,NU,Blaze,null,Solar Power,8.5,20,1 Spe,65,Red,5120,M (87.5%),Monster,Dragon,45,1059860,null,4,4,229,null,null,null
+Charmeleon,5,5,58,64,58,80,65,80,405,Fire,null,NU,Blaze,null,Solar Power,19,40,1 SpA/1 Spe,142,Red,null,M (87.5%),Monster,Dragon,45,1059860,Lv. 16,5,5,230,null,null,null
+Chatot,441,461,76,65,45,92,42,91,411,Normal,Flying,NU,Keen Eye,Tangled Feet,Big Pecks,1.9,20,1 Atk,107,Black,5120,Neutral,Flying,null,30,1059860,N,461,441,null,null,102,null
+Cherrim,421,448,70,60,70,87,78,85,450,Grass,null,NU,Flower Gift,null,null,9.3,20,2 SpA,133,Pink,null,Neutral,Fairy,Grass,75,1000000,Lv. 25,448,421,null,null,59,null
+Cherubi,420,447,45,35,45,62,53,35,275,Grass,null,NU,Chlorophyll,null,null,3.3,20,1 SpA,68,Pink,5120,Neutral,Fairy,Grass,190,1000000,null,447,420,null,null,58,null
+Chikorita,152,183,45,49,65,49,65,45,318,Grass,null,NU,Overgrow,null,Leaf Guard,6.4,20,1 SpD,64,Green,5120,M (87.5%),Monster,Grass,45,1059860,null,183,152,1,null,null,null
+Chimchar,390,419,44,58,44,58,44,61,309,Fire,null,NU,Blaze,null,Iron Fist,6.2,20,1 Spe,65,Brown,5120,M (87.5%),Field,Human-Like,45,1059860,null,419,390,null,null,4,null
+Chimecho,358,387,65,50,70,95,80,65,425,Psychic,null,NU,Levitate,null,null,1,20,1 SpA/1 SpD,147,Blue,6400,Neutral,Amorphous,null,45,800000,Nite Friendship,387,358,null,151,83,null
+Chinchou,170,200,75,38,38,56,56,67,330,Water,Electric,NU,Volt Absorb,Illuminate,Water Absorb,12,40,1 HP,90,Blue,5120,Neutral,Water 2,null,190,1250000,null,200,170,174,181,null,null
+Chingling,433,386,45,30,50,65,50,45,285,Psychic,null,NU,Levitate,null,null,0.6,20,1 SpA,74,Yellow,6400,Neutral,-,null,120,800000,null,386,433,null,null,82,null
+Ciccino,573,573,75,95,60,65,60,115,470,Normal,null,NU,Cute Charm,Technician,Skill Link,7.5,20,2 Spe,165,Gray,null,F (75%),Field,null,60,800000,Shiny Stone,573,573,null,null,null,79
+Clamperl,366,395,35,64,85,74,55,32,345,Water,null,NU,Shell Armor,null,Rattled,52.5,80,1 Def,142,Blue,5120,Neutral,Water 1,null,255,600000,null,395,366,null,176,null,null
+Claydol,344,371,60,70,105,70,120,75,500,Ground,Psychic,RU,Levitate,null,null,108,100,2 SpD,189,Black,null,None,Mineral,null,90,1000000,Lv. 36,371,344,null,132,null,null
+Clefable,36,38,95,70,73,85,90,60,473,Normal,null,RU,Cute Charm,Magic Guard,Unaware,40,60,3 HP,129,Pink,null,F (75%),Fairy,null,25,800000,Moon Stone,38,36,42,null,101,null
+Clefairy,35,37,70,45,48,60,65,35,323,Normal,null,NU,Cute Charm,Magic Guard,Friend Guard,7.5,20,2 HP,68,Pink,null,F (75%),Fairy,null,150,800000,Friendship,37,35,41,null,100,null
+Cleffa,173,36,50,25,28,45,55,15,218,Normal,null,NU,Cute Charm,Magic Guard,Friend Guard,3,20,2 SpD,37,Pink,2560,F (75%),-,null,150,800000,null,36,173,40,null,99,null
+Cloyster,91,99,50,90,180,85,45,70,520,Water,Ice,OU,Shell Armor,Skill Link,Overcoat,132.5,100,2 Def,203,Purple,null,Neutral,Water 3,null,60,1250000,Water Stone,99,91,170,null,null,null
+Cobalion,638,638,91,90,129,90,72,108,580,Steel,Fighting,UU,Justified,null,null,250,120,3 Def,261,Blue,NONE,None,-,null,3,1250000,N,638,638,null,null,null,144
+Cofagrigus,563,563,58,50,145,95,105,30,483,Ghost,null,RU,Mummy,null,null,76.5,80,2 Def,169,Yellow,null,Neutral,Mineral,Amorphous,90,1000000,Lv. 34,563,563,null,null,null,69
+Combee,415,442,30,30,42,30,42,70,244,Bug,Flying,NU,Honey Gather,null,Hustle,5.5,20,1 Spe,63,Yellow,3840,M (87.5%),Bug,null,120,1059860,null,442,415,null,null,53,null
+Combusken,256,280,60,85,60,85,60,55,405,Fire,Fighting,NU,Blaze,null,Speed Boost,19.5,40,1 Atk/1 SpA,142,Red,null,M (87.5%),Field,null,45,1059860,Lv. 16,280,256,null,5,null,null
+Conkeldurr,534,534,105,140,95,55,65,45,505,Fighting,null,OU,Guts,Sheer Force,Iron Fist,87,80,3 Atk,227,Brown,null,M (75%),Human-Like,null,45,1059860,Trade,534,534,null,null,null,40
+Corphish,341,368,43,80,65,50,35,35,308,Water,null,NU,Hyper Cutter,Shell Armor,Adaptability,11.5,40,1 Atk,111,Red,3840,Neutral,Water 1,Water 3,205,1640000,null,368,341,null,129,null,null
+Corsola,222,253,55,55,85,65,85,35,380,Water,Rock,NU,Hustle,Natural Cure,Regenerator,5,20,1 Def/1 SpD,113,Pink,5120,F (75%),Water 1,Water 3,60,800000,N,253,222,171,180,null,null
+Cottonee,546,546,40,27,60,37,50,66,280,Grass,null,NU,Prankster,Infiltrator,Chlorophyll,0.6,20,1 Spe,56,Green,5120,Neutral,Grass,Fairy,190,1000000,null,546,546,null,null,null,52
+Cradily,346,373,86,81,97,81,107,43,495,Rock,Grass,NU,Suction Cups,null,Storm Drain,60.4,80,2 SpD,199,Green,null,M (87.5%),Water 3,null,45,600000,Lv. 40,373,346,null,134,null,null
+Cranidos,408,435,67,125,40,30,30,58,350,Rock,null,NU,Mold Breaker,null,Sheer Force,31.5,60,1 Atk,99,Blue,7680,M (87.5%),Monster,null,45,600000,null,435,408,null,null,36,null
+Crawdaunt,342,369,63,120,85,90,55,55,468,Water,Dark,NU,Hyper Cutter,Shell Armor,Adaptability,32.8,60,2 Atk,161,Red,null,Neutral,Water 1,Water 3,155,1640000,Lv. 30,369,342,null,130,null,null
+Cresselia,488,488,120,70,120,75,130,85,600,Psychic,null,RU,Levitate,null,null,85.6,80,3 SpD,210,Yellow,NONE,F (100%),-,null,3,1250000,N,488,488,null,null,null,null
+Croagunk,453,472,48,61,40,61,40,50,300,Poison,Fighting,NU,Anticipate,Dry Skin,Poison Touch,23,40,1 Atk,83,Blue,2560,Neutral,Human-Like,null,140,1000000,null,472,453,null,null,129,null
+Crobat,169,46,85,90,80,70,80,130,535,Poison,Flying,UU,Inner Focus,null,Infiltrator,75,80,3 Spe,204,Purple,null,Neutral,Flying,null,90,1000000,Friendship,46,169,39,65,30,null
+Croconaw,159,190,65,80,80,59,63,58,405,Water,null,NU,Torrent,null,Sheer Force,25,40,1 Atk/1 Def,143,Blue,null,M (87.5%),Monster,Water 1,45,1059860,Lv. 18,190,159,8,null,null,null
+Crustle,558,558,70,95,125,65,75,45,475,Bug,Rock,RU,Sturdy,Shell Armor,Weak Armor,200,120,2 Def,166,Red,null,Neutral,Bug,Mineral,75,1000000,Lv. 34,558,558,null,null,null,64
+Cryogonal,615,615,70,50,30,95,135,105,485,Ice,null,NU,Levitate,null,null,148,100,2 SpD,170,Blue,6400,None,Mineral,null,25,1000000,N,615,615,null,null,null,121
+Cubchoo,613,613,55,70,40,60,40,40,305,Ice,null,NU,Snow Cloak,null,Rattled,8.5,20,1 Atk,61,White,5120,Neutral,Field,null,120,1000000,null,613,613,null,null,null,119
+Cubone,104,113,50,50,95,40,50,35,320,Ground,null,NU,Rock Head,Lightningrod,Battle Armor,6.5,20,1 Def,87,Brown,5120,Neutral,Monster,null,190,1000000,null,113,104,203,null,null,null
+Cyndaquil,155,186,39,52,43,60,50,65,309,Fire,null,NU,Blaze,null,Flash Fire,7.9,20,1 Spe,65,Yellow,5120,M (87.5%),Field,null,45,1059860,null,186,155,4,null,null,null
+Darkrai,491,491,70,90,90,135,90,125,600,Dark,null,Uber,Bad Dreams,null,null,50.5,80,1 Spe/2 SpA,210,Black,NONE,None,-,null,3,1250000,N,491,491,null,null,null,null
+Darmanitan,555,555,105,140,55,30,55,95,480,Fire,null,OU,Sheer Force,null,Zen Mode,92.9,80,2 Atk,168,Red,null,Neutral,Field,null,60,1059860,Lv. 35,555,555,null,null,null,61
+Darmanitan_Z,555.1,555.1,105,30,105,140,105,55,540,Fire,Psychic,OU,null,null,Zen Mode,92.9,80,2 Atk,189,Red,null,Neutral,Field,null,60,1059860,null,555.1,555.1,null,null,null,61.1
+Darumaka,554,554,70,90,45,15,45,50,315,Fire,null,NU,Hustle,null,Inner Focus,37.5,60,1 Atk,63,Red,5120,Neutral,Field,null,120,1059860,null,554,554,null,null,null,60
+Deerling,585,585,60,60,50,40,50,75,335,Normal,Grass,NU,Chlorophyll,Sap Sipper,Serene Grace,19.5,40,1 Spe,67,Yellow,5120,Neutral,Field,null,190,1000000,null,585,585,null,null,null,91
+Deino,633,633,52,65,50,45,50,38,300,Dark,Dragon,NU,Hustle,null,null,17.3,40,1 Atk,60,Blue,10240,Neutral,Dragon,null,45,1250000,null,633,633,null,null,null,139
+Delcatty,301,326,70,65,65,55,55,70,380,Normal,null,NU,Cute Charm,Normalize,Wonder Skin,32.6,60,1 HP/1 Spe,138,Purple,null,F (75%),Field,Fairy,60,800000,Moon Stone,326,301,null,62,null,null
+Delibird,225,256,45,55,45,65,45,75,330,Ice,Flying,NU,Vital Spirit,Hustle,Insomnia,16,40,1 Spe,183,Red,5120,Neutral,Water 1,Field,45,800000,N,256,225,190,null,null,null
+Deoxys_A,386.1,415.1,50,180,20,180,20,150,600,Psychic,null,Uber,Pressure,null,null,60.8,80,1 Atk/1 SpA/1 Spe,215,Red,NONE,None,-,null,3,1250000,N,415.1,386.1,null,202.1,null,null
+Deoxys_D,386.2,415.2,50,70,160,70,160,90,600,Psychic,null,UU,Pressure,null,null,60.8,80,1 Atk/1 SpA/1 Spe,215,Red,NONE,None,-,null,3,1250000,N,415.2,386.2,null,202.2,null,null
+Deoxys_N,386,415,50,150,50,150,50,150,600,Psychic,null,Uber,Pressure,null,null,60.8,80,1 Atk/1 SpA/1 Spe,215,Red,NONE,None,-,null,3,1250000,N,415,386,null,202,null,null
+Deoxys_S,386.3,415.3,50,95,90,95,90,180,600,Psychic,null,OU,Pressure,null,null,60.8,80,1 Atk/1 SpA/1 Spe,215,Red,NONE,None,-,null,3,1250000,N,415.3,386.3,null,202.3,null,null
+Dewgong,87,95,90,70,80,70,95,70,475,Water,Ice,NU,Thick Fat,Hydration,Ice Body,120,100,2 SpD,176,White,null,Neutral,Water 1,Field,75,1000000,Lv. 34,95,87,177,null,null,null
+Dewott,502,502,75,75,60,83,60,60,413,Water,null,NU,Torrent,null,Shell Armor,24.5,40,2 SpA,145,Blue,null,M (87.5%),Field,null,45,1059860,Lv. 17,502,502,null,null,null,8
+Dialga,483,483,100,120,120,150,100,90,680,Steel,Dragon,Uber,Pressure,null,Telepathy,683,120,3 SpA,220,White,NONE,None,-,null,30,1250000,N,483,483,null,null,149,null
+Diglett,50,55,10,55,25,35,45,95,265,Ground,null,NU,Sand Veil,Arena Trap,Sand Force,0.8,20,1 Spe,81,Brown,5120,Neutral,Field,null,255,1000000,null,55,50,132,null,null,null
+Ditto,132,156,48,48,48,48,48,48,288,Normal,null,NU,Limber,null,Imposter,4,20,1 HP,61,Purple,null,None,Ditto,null,35,1000000,N,156,132,92,null,null,null
+Dodrio,85,93,60,110,70,60,60,100,460,Normal,Flying,NU,Run Away,Early Bird,Tangled Feet,85.2,80,2 Atk,158,Brown,null,Neutral,Flying,null,45,1000000,Lv. 31,93,85,200,93,null,null
+Doduo,84,92,35,85,45,35,35,75,310,Normal,Flying,NU,Run Away,Early Bird,Tangled Feet,39.2,60,1 Atk,96,Brown,5120,Neutral,Flying,null,190,1000000,null,92,84,199,92,null,null
+Donphan,232,263,90,120,120,60,60,50,500,Ground,null,UU,Sturdy,null,Sand Veil,120,100,1 Atk/1 Def,189,Gray,null,Neutral,Field,null,60,1000000,Lv. 25,263,232,196,166,null,null
+Dragonair,148,179,61,84,65,70,70,70,420,Dragon,null,NU,Shed Skin,null,Marvel Scale,16.5,40,2 Atk,144,Blue,null,Neutral,Water 1,Dragon,45,1250000,Lv. 30,179,148,242,null,null,null
+Dragonite,149,180,91,134,95,100,100,80,600,Dragon,Flying,OU,Inner Focus,null,Multiscale,210,120,3 Atk,218,Brown,null,Neutral,Water 1,Dragon,45,1250000,Lv. 55,180,149,243,null,null,null
+Drapion,452,471,70,90,110,60,75,95,500,Poison,Dark,RU,Battle Armor,Sniper,Keen Eye,61.5,80,2 Def,204,Purple,null,Neutral,Bug,Water 3,45,1250000,Lv. 40,471,452,null,null,128,null
+Dratini,147,178,41,64,45,50,50,50,300,Dragon,null,NU,Shed Skin,null,Marvel Scale,3.3,20,1 Atk,67,Blue,10240,Neutral,Water 1,Dragon,45,1250000,null,178,147,241,null,null,null
+Drifblim,426,452,150,80,44,90,54,80,498,Ghost,Flying,NU,Aftermath,Unburden,Flare Boost,15,40,2 HP,204,Purple,null,Neutral,Amorphous,null,60,1640000,Lv. 28,452,426,null,null,67,null
+Drifloon,425,451,90,50,34,60,44,70,348,Ghost,Flying,NU,Aftermath,Unburden,Flare Boost,1.2,20,1 HP,127,Purple,7680,Neutral,Amorphous,null,125,1640000,null,451,425,null,null,66,null
+Drilbur,529,529,60,85,40,30,45,68,328,Ground,null,NU,Sand Rush,Sand Force,Mold Breaker,8.5,20,1 Atk,66,Gray,5120,Neutral,Field,null,120,1000000,null,529,529,null,null,null,35
+Drowzee,96,105,60,48,45,43,90,42,328,Psychic,null,NU,Insomnia,Forewarn,Inner Focus,32.4,60,1 SpD,102,Yellow,5120,Neutral,Human-Like,null,190,1000000,null,105,96,87,null,null,null
+Druddigon,621,621,77,120,90,60,90,48,485,Dragon,null,NU,Rough Skin,Sheer Force,Mold Breaker,139,100,2 Atk,170,Red,7680,Neutral,Dragon,Monster,45,1000000,N,621,621,null,null,null,127
+Ducklett,580,580,62,44,50,44,50,55,305,Water,Flying,NU,Keen Eye,Big Pecks,Hydration,5.5,20,1 HP,61,Blue,5120,Neutral,Water 1,Flying,190,1000000,null,580,580,null,null,null,86
+Dugtrio,51,56,35,80,50,50,70,120,405,Ground,null,NU,Sand Veil,Arena Trap,Sand Force,33.3,60,2 Spe,153,Brown,null,Neutral,Field,null,50,1000000,Lv. 26,56,51,133,null,null,null
+Dunsparce,206,236,100,70,70,65,65,45,415,Normal,null,NU,Serene Grace,Run Away,Rattled,14,40,1 HP,125,Yellow,5120,Neutral,Field,null,190,1000000,N,236,206,52,null,null,null
+Duosion,578,578,65,40,50,125,60,30,370,Psychic,null,NU,Overcoat,Magic Guard,Regenerator,8,20,2 SpA,130,Green,null,Neutral,Amorphous,null,100,1059860,Lv. 32,578,578,null,null,null,84
+Durant,632,632,58,109,112,48,48,109,484,Bug,Steel,RU,Swarm,Hustle,Truant,33,60,2 Def,169,Gray,5120,Neutral,Bug,null,90,1000000,N,632,632,null,null,null,138
+Dusclops,356,383,40,70,130,60,130,25,455,Ghost,null,UU,Pressure,null,null,30.6,60,1 Def/1 SpD,179,Black,null,Neutral,Amorphous,null,90,800000,Lv. 37,383,356,null,149,190,null
+Dusknoir,477,384,45,100,135,65,135,45,525,Ghost,null,RU,Pressure,null,null,106.6,100,1 Def/2 SpD,210,Black,null,Neutral,Amorphous,null,45,800000,Trade w/ Reaper Cloth,384,477,null,null,191,null
+Duskull,355,382,20,40,90,30,90,25,295,Ghost,null,NU,Levitate,null,null,15,40,1 SpD,97,Black,6400,Neutral,Amorphous,null,190,800000,null,382,355,null,148,189,null
+Dustox,269,293,60,50,70,50,90,65,385,Bug,Poison,NU,Shield Dust,null,Compoundeyes,31.6,60,3 SpD,161,Green,null,Neutral,Bug,null,45,1000000,Lv. 10,293,269,null,18,52,null
+Dwebble,557,557,50,65,85,35,35,55,325,Bug,Rock,NU,Sturdy,Shell Armor,Weak Armor,14.5,40,1 Def,65,Red,5120,Neutral,Bug,Mineral,190,1000000,null,557,557,null,null,null,63
+Eelektrik,603,603,65,85,70,75,70,40,405,Electric,null,NU,Levitate,null,null,22,40,2 Atk,142,Blue,null,Neutral,Amorphous,null,60,1250000,Lv. 39,603,603,null,null,null,109
+Eelektross,604,604,85,115,80,105,80,50,515,Electric,null,NU,Levitate,null,null,80.5,80,3 Atk,232,Blue,null,Neutral,Amorphous,null,30,1250000,Thunderstone,604,604,null,null,null,110
+Eevee,133,157,55,55,50,45,65,55,325,Normal,null,NU,Run Away,Adaptability,Anticipation,6.5,20,1 SpD,92,Brown,8960,M (87.5%),Field,null,45,1000000,null,157,133,180,null,163,null
+Ekans,23,23,30,60,44,40,54,55,283,Poison,null,NU,Intimidate,Shed Skin,Unnerve,6.9,20,1 Atk,62,Purple,5120,Neutral,Field,Dragon,255,1000000,null,23,23,50,null,null,null
+Electabuzz,125,146,65,83,57,95,85,105,490,Electric,null,NU,Static,null,Vital Spirit,30,60,2 Spe,156,Yellow,null,M (75%),Human-Like,null,45,1000000,Lv. 30,146,125,155,null,198,null
+Electivire,466,147,75,123,67,95,85,95,540,Electric,null,RU,Motor Drive,null,Vital Spirit,138.6,100,3 Atk,199,Yellow,null,M (75%),Human-Like,null,30,1000000,Trade h/ Electrizer,147,466,null,null,199,null
+Electrike,309,334,40,45,40,65,40,65,295,Electric,null,NU,Static,Lightningrod,Minus,15.2,40,1 Spe,104,Green,5120,Neutral,Field,null,120,1250000,null,334,309,null,78,null,null
+Electrode,101,110,60,50,70,80,80,140,480,Electric,null,NU,Soundproof,Static,Aftermath,66.6,80,2 Spe,150,Red,null,None,Mineral,null,60,1000000,Lv. 30,110,101,121,85,null,null
+Elekid,239,145,45,63,37,65,55,95,360,Electric,null,NU,Static,null,Vital Spirit,23.5,40,1 Spe,106,Yellow,6400,M (75%),-,null,45,1000000,null,145,239,154,null,197,null
+Elgyem,605,605,55,55,55,85,55,30,335,Psychic,null,NU,Telepathy,Synchronize,Analytic,9,20,1 SpA,67,Blue,5120,Neutral,Human-Like,null,255,1000000,null,605,605,null,null,null,111
+Emboar,500,500,110,123,65,100,65,65,528,Fire,Fighting,NU,Blaze,null,Reckless,150,100,3 Atk,238,Red,null,M (87.5%),Field,null,45,1059860,Lv. 36,500,500,null,null,null,6
+Emolga,587,587,55,75,60,75,60,103,428,Electric,Flying,NU,Static,null,Motor Drive,5,20,2 Spe,150,White,5120,Neutral,Field,null,200,1000000,null,587,587,null,null,null,93
+Empoleon,395,424,84,86,88,111,101,60,530,Water,Steel,UU,Torrent,null,Defiant,84.5,80,3 SpA,210,Blue,null,M (87.5%),Water 1,Field,45,1059860,Lv. 36,424,395,null,null,9,null
+Entei,244,268,115,115,85,90,75,100,580,Fire,null,RU,Pressure,null,Flash Fire,198,100,1 HP/2 Atk,217,Brown,NONE,None,-,null,3,1250000,N,268,244,239,null,null,null
+Escavalier,589,589,70,135,105,60,105,20,495,Bug,Steel,UU,Swarm,Shell Armor,Overcoat,33,60,2 Atk,173,Gray,null,Neutral,Bug,null,75,1000000,Trade w/ Shelmet,589,589,null,null,null,95
+Espeon,196,161,65,65,60,130,95,110,525,Psychic,null,BL,Synchronize,null,Magic Bounce,26.5,60,2 SpA,197,Purple,null,M (87.5%),Field,null,45,1000000,Morn/Day Friendship,161,196,184,null,167,null
+Excadrill,530,530,110,135,60,50,65,88,508,Ground,Steel,OU,Sand Rush,Sand Force,Mold Breaker,40.4,60,2 Atk,178,Gray,null,Neutral,Field,null,60,1000000,Lv. 31,530,530,null,null,null,36
+Exeggcute,102,111,60,40,80,60,45,40,325,Grass,Psychic,NU,Chlorophyll,null,Harvest,2.5,20,1 Def,98,Pink,5120,Neutral,Grass,null,90,1250000,null,111,102,104,null,null,null
+Exeggutor,103,112,95,95,85,125,65,55,520,Grass,Psychic,NU,Chlorophyll,null,Harvest,120,100,2 SpA,212,Yellow,null,Neutral,Grass,null,45,1250000,Leaf Stone,112,103,105,null,null,null
+Exploud,295,320,104,91,63,91,63,68,480,Normal,null,NU,Soundproof,null,Scrappy,84,80,3 HP,184,Blue,null,Neutral,Monster,Field,45,1059860,Lv. 40,320,295,null,47,null,null
+Farfetchd,83,91,52,65,55,58,62,60,352,Normal,Flying,NU,Keen Eye,Inner Focus,Defiant,15,40,1 Atk,94,Brown,5120,Neutral,Flying,Field,45,1000000,N,91,83,158,null,null,null
+Fearow,22,22,65,90,65,61,61,100,442,Normal,Flying,NU,Keen Eye,null,Sniper,38,60,2 Spe,162,Brown,null,Neutral,Flying,null,90,1000000,Lv. 20,22,22,14,null,null,null
+Feebas,349,376,20,15,20,10,55,80,200,Water,null,NU,Swift Swim,null,Adaptability,7.4,20,1 Spe,61,Brown,5120,Neutral,Water 1,Dragon,255,600000,null,376,349,null,140,138,null
+Feraligatr,160,191,85,105,100,79,83,78,530,Water,null,RU,Torrent,null,Sheer Force,88.8,80,2 Atk/1 Def,210,Blue,null,M (87.5%),Monster,Water 1,45,1059860,Lv. 30,191,160,9,null,null,null
+Ferroseed,597,597,44,50,91,24,86,10,305,Grass,Steel,RU,Iron Barbs,null,null,18.8,40,1 Def,61,Gray,5120,Neutral,Grass,Mineral,255,1000000,null,597,597,null,null,null,103
+Ferrothorn,598,598,74,94,131,54,116,20,489,Grass,Steel,OU,Iron Barbs,null,null,110,100,2 Def,171,Gray,null,Neutral,Grass,Mineral,90,1000000,Lv. 40,598,598,null,null,null,104
+Finneon,456,475,49,49,56,49,61,66,330,Water,null,NU,Swift Swim,Storm Drain,Water Veil,7,20,1 Spe,90,Blue,5120,Neutral,Water 2,null,190,600000,null,475,456,null,null,134,null
+Flaaffy,180,208,70,55,55,80,60,45,365,Electric,null,NU,Static,null,Plus,13.3,40,2 SpA,117,Pink,null,Neutral,Monster,Field,120,1059860,Lv. 15,208,180,54,null,null,null
+Flareon,136,160,65,130,60,95,110,65,525,Fire,null,NU,Flash Fire,null,Guts,25,40,2 Atk,198,Red,null,M (87.5%),Field,null,45,1000000,Fire Stone,160,136,183,null,166,null
+Floatzel,419,446,85,105,55,85,50,115,495,Water,null,NU,Swift Swim,null,Water Veil,33.5,60,2 Spe,178,Brown,null,Neutral,Water 1,Field,75,1000000,Lv. 26,446,419,null,null,57,null
+Flygon,330,357,80,100,80,80,80,100,520,Ground,Dragon,UU,Levitate,null,null,82,80,1 Atk/2 Spe,197,Green,null,Neutral,Bug,null,45,1059860,Lv. 45,357,330,null,118,null,null
+Foongus,590,590,69,55,45,55,55,15,294,Grass,Poison,NU,Effect Spore,null,Regenerator,1,20,1 HP,59,White,5120,Neutral,Grass,null,190,1000000,null,590,590,null,null,null,96
+Forretress,205,235,75,90,140,60,60,40,465,Bug,Steel,OU,Sturdy,null,Overcoat,125.8,100,2 Def,118,Purple,null,Neutral,Bug,null,75,1000000,Lv. 31,235,205,94,null,null,null
+Fraxure,611,611,66,117,70,40,50,67,410,Dragon,null,NU,Rivalry,Mold Breaker,Unnerve,36,60,2 Atk,144,Green,null,Neutral,Monster,Dragon,60,1250000,Lv. 38,611,611,null,null,null,117
+Frillish,592,592,55,40,50,65,85,40,335,Water,Ghost,NU,Water Absorb,Cursed Body,null,33,60,1 SpD,67,White,5120,Neutral,Amorphous,null,190,1000000,null,592,592,null,null,null,98
+Froslass,478,391,70,80,70,80,70,110,480,Ice,Ghost,UU,Snow Cloak,null,Cursed Body,26.6,60,2 Spe,187,White,null,F (100%),Fairy,Mineral,75,1000000,Dawn StoneF,391,478,null,null,208,null
+Furret,162,193,85,76,64,45,55,90,415,Normal,null,NU,Run Away,Keen Eye,Frisk,32.5,60,2 Spe,116,Brown,null,Neutral,Field,null,90,1000000,Lv. 15,193,162,20,null,null,null
+Gabite,444,464,68,90,65,50,55,82,410,Dragon,Ground,NU,Sand Veil,null,Rough Skin,56,80,2 Atk,144,Blue,null,Neutral,Monster,Dragon,45,1250000,Lv. 24,464,444,null,null,110,null
+Gallade,475,307,68,125,65,65,115,80,518,Psychic,Fighting,RU,Steadfast,null,Justified,52,80,3 Atk,208,White,null,M (100%),Amorphous,null,45,1250000,Dawn StoneM,307,475,null,null,160,null
+Galvantula,596,596,70,77,60,97,60,108,472,Bug,Electric,RU,Compoundeyes,Unnerve,Swarm,14.3,40,2 Spe,165,Yellow,5120,Neutral,Bug,null,75,1000000,Lv. 36,596,596,null,null,null,102
+Garbodor,569,569,80,95,92,60,82,75,484,Poison,null,NU,Stench,Weak Armor,Aftermath,107.3,100,2 Atk,166,Green,null,Neutral,Mineral,null,60,1000000,Lv. 36,569,569,null,null,null,75
+Garchomp,445,465,108,130,95,80,85,102,600,Dragon,Ground,Uber,Sand Veil,null,Rough Skin,95,80,3 Atk,218,Blue,null,Neutral,Monster,Dragon,45,1250000,Lv. 48,465,445,null,null,111,null
+Gardevoir,282,306,68,65,65,125,115,80,518,Psychic,null,NU,Synchronize,Trace,Telepathy,48.4,60,3 SpA,208,White,null,Neutral,Amorphous,null,45,1250000,Lv. 30,306,282,null,31,159,null
+Gastly,92,100,30,35,30,100,35,80,310,Ghost,Poison,NU,Levitate,null,null,0.1,20,1 SpA,95,Purple,5120,Neutral,Amorphous,null,190,1059860,null,100,92,58,null,69,null
+Gastrodon,423,450,111,83,68,92,82,39,475,Water,Ground,RU,Sticky Hold,Storm Drain,Sand Force,29.9,60,2 HP,176,Purple,null,Neutral,Water 1,Amorphous,75,1000000,Lv. 30,450,423,null,null,61,null
+Genesect,649,649,71,120,95,120,95,99,600,Bug,Steel,null,Download,null,null,82.5,80,"1 Atk, 1 Spe, 1 SpA",270,Purple,NONE,None,-,null,3,1250000,N,649,649,null,null,null,155
+Gengar,94,102,60,65,60,130,75,110,500,Ghost,Poison,OU,Levitate,null,null,40.5,60,3 SpA,190,Purple,null,Neutral,Amorphous,null,45,1059860,Trade,102,94,60,null,71,null
+Geodude,74,80,40,80,100,30,30,20,300,Rock,Ground,NU,Rock Head,Sturdy,Sand Veil,20,40,1 Def,73,Brown,3840,Neutral,Mineral,null,255,1059860,null,80,74,34,57,31,null
+Gible,443,463,58,70,45,40,45,42,300,Dragon,Ground,NU,Sand Veil,null,Rough Skin,20.5,40,1 Atk,67,Blue,10240,Neutral,Monster,Dragon,45,1250000,null,463,443,null,null,109,null
+Gigalith,526,526,85,135,130,60,70,25,505,Rock,null,NU,Sturdy,null,Sand Force,260,120,3 Atk,227,Blue,null,Neutral,Mineral,null,45,1059860,Trade,526,526,null,null,null,32
+Girafarig,203,233,70,80,65,90,65,85,455,Normal,Psychic,NU,Inner Focus,Early Bird,Sap Sipper,41.5,60,2 SpA,149,Yellow,5120,Neutral,Field,null,60,1000000,N,233,203,147,164,121,null
+Giratina,487,487,150,100,120,100,120,90,680,Ghost,Dragon,Uber,Pressure,null,Telepathy,750,120,3 HP,220,Black,NONE,None,-,null,3,1250000,N,487,487,null,null,210,null
+Giratina_O,487.1,487.1,150,120,100,120,100,90,680,Ghost,Dragon,Uber,Levitate,null,null,650,120,3 HP,220,Black,NONE,None,-,null,3,1250000,N,487.1,487.1,null,null,210.1,null
+Glaceon,471,164,65,60,110,130,95,65,525,Ice,null,NU,Snow Cloak,null,Ice Body,25.9,60,2 SpA,196,Blue,null,M (87.5%),Field,null,45,1000000,Level a/ Ice Rock,164,471,null,null,170,null
+Glalie,362,390,80,80,80,80,80,80,480,Ice,null,NU,Inner Focus,Ice Body,Moody,256.5,120,2 HP,187,Gray,null,Neutral,Fairy,Mineral,75,1000000,Lv. 42,390,362,null,172,207,null
+Glameow,431,455,49,55,42,42,37,85,310,Normal,null,NU,Limber,Own Tempo,Keen Eye,3.9,20,1 Spe,71,Gray,5120,F (75%),Field,null,190,800000,null,455,431,null,null,76,null
+Gligar,207,237,65,75,105,35,65,85,430,Ground,Flying,RU,Hyper Cutter,Sand Veil,Immunity,64.8,80,1 Def,108,Purple,5120,Neutral,Bug,null,60,1059860,null,237,207,189,null,153,null
+Gliscor,472,238,75,95,125,45,75,95,510,Ground,Flying,OU,Hyper Cutter,Sand Veil,Poison Heal,42.5,60,2 Def,192,Purple,null,Neutral,Bug,null,30,1059860,Nite Level h/ Razor Fang,238,472,null,null,154,null
+Gloom,44,48,60,65,70,85,75,40,395,Grass,Poison,NU,Chlorophyll,null,Stench,8.6,20,2 SpA/1 SpD,132,Blue,null,Neutral,Grass,null,120,1059860,Lv. 22,48,44,84,89,null,null
+Golbat,42,45,75,80,70,65,75,90,455,Poison,Flying,NU,Inner Focus,null,Infiltrator,55,80,2 Spe,171,Purple,null,Neutral,Flying,null,90,1000000,Lv. 22,45,42,38,64,29,null
+Goldeen,118,135,45,67,60,35,50,63,320,Water,null,NU,Swift Swim,Water Veil,Lightningrod,15,40,1 Atk,111,Red,5120,Neutral,Water 2,null,225,1000000,null,135,118,78,50,78,null
+Golduck,55,60,80,82,78,95,80,85,500,Water,null,NU,Damp,Cloud Nine,Swift Swim,76.6,80,2 SpA,174,Blue,null,Neutral,Water 1,Field,75,1000000,Lv. 33,60,55,139,159,44,null
+Golem,76,82,80,110,130,55,65,45,485,Rock,Ground,NU,Rock Head,Sturdy,Sand Veil,300,120,3 Def,177,Brown,null,Neutral,Mineral,null,45,1059860,Trade,82,76,36,59,33,null
+Golett,622,622,59,74,50,35,50,35,303,Ground,Ghost,NU,Iron Fist,Klutz,No Guard,92,80,1 Atk,61,Green,6400,None,Mineral,null,190,1000000,null,622,622,null,null,null,128
+Golurk,623,623,89,124,80,55,80,55,483,Ground,Ghost,NU,Iron Fist,Klutz,No Guard,330,120,2 Atk,169,Green,null,None,Mineral,null,90,1000000,Lv. 43,623,623,null,null,null,129
+Gorebyss,368,397,55,84,105,114,75,52,485,Water,null,RU,Swift Swim,null,Hydration,22.6,40,2 SpA,178,Pink,null,Neutral,Water 1,null,60,600000,Trade w/ Deepseascale,397,368,null,178,null,null
+Gothita,574,574,45,30,50,55,65,45,290,Psychic,null,NU,Frisk,null,Shadow Tag,5.8,20,1 SpD,58,Purple,5120,F (75%),Human-Like,null,200,1059860,null,574,574,null,null,null,80
+Gothitelle,576,576,70,55,95,95,110,65,490,Psychic,null,NU,Frisk,null,Shadow Tag,44,60,3 SpD,221,Purple,null,F (75%),Human-Like,null,50,1059860,Lv. 41,576,576,null,null,null,82
+Gothorita,575,575,60,45,70,75,85,55,390,Psychic,null,NU,Frisk,null,Shadow Tag,18,40,2 SpD,137,Purple,null,F (75%),Human-Like,null,100,1059860,Lv. 32,575,575,null,null,null,81
+Granbull,210,240,90,120,75,60,60,45,450,Normal,null,NU,Intimidate,Quick Feet,Rattled,48.7,60,2 Atk,178,Purple,null,F (75%),Field,Fairy,75,800000,Lv. 23,240,210,124,null,null,null
+Graveler,75,81,55,95,115,45,45,35,390,Rock,Ground,NU,Rock Head,Sturdy,Sand Veil,105,100,2 Def,134,Brown,null,Neutral,Mineral,null,120,1059860,Lv. 25,81,75,35,58,32,null
+Grimer,88,96,80,80,50,40,50,25,325,Poison,null,NU,Stench,Sticky Hold,Poison Touch,30,60,1 HP,90,Purple,5120,Neutral,Amorphous,null,190,1000000,null,96,88,116,106,null,null
+Grotle,388,417,75,89,85,55,65,36,405,Grass,null,NU,Overgrow,null,Shell Armor,97,80,1 Atk/1 Def,141,Green,null,M (87.5%),Monster,Grass,45,1059860,Lv. 18,417,388,null,null,2,null
+Groudon,383,412,100,150,140,100,90,90,670,Ground,null,Uber,Drought,null,null,950,120,3 Atk,218,Red,NONE,None,-,null,5,1250000,N,412,383,null,199,null,null
+Grovyle,253,277,50,65,45,85,65,95,405,Grass,null,NU,Overgrow,null,Unburden,21.6,40,2 Spe,141,Green,null,M (87.5%),Monster,Dragon,45,1059860,Lv. 16,277,253,null,2,null,null
+Growlithe,58,63,55,70,45,70,50,60,350,Fire,null,NU,Intimidate,Flash Fire,Justified,19,40,1 Atk,91,Brown,5120,M (75%),Field,null,190,1250000,null,63,58,127,null,null,null
+Grumpig,326,353,80,45,65,90,110,80,470,Psychic,null,NU,Thick Fat,Own Tempo,Gluttony,71.5,80,2 SpD,164,Purple,null,Neutral,Field,null,60,800000,Lv. 32,353,326,null,111,null,null
+Gulpin,316,343,70,43,53,43,53,40,302,Poison,null,NU,Liquid Ooze,Sticky Hold,Gluttony,10.3,40,1 HP,75,Green,5120,Neutral,Amorphous,null,225,1640000,null,343,316,null,95,null,null
+Gurdurr,533,533,85,105,85,40,50,40,405,Fighting,null,NU,Guts,Sheer Force,Iron Fist,40,60,2 Atk,142,Gray,null,M (75%),Human-Like,null,90,1059860,Lv. 25,533,533,null,null,null,39
+Gyarados,130,154,95,125,79,60,100,81,540,Water,Flying,OU,Intimidate,null,Moxie,235,120,2 Atk,214,Blue,null,Neutral,Water 2,Dragon,45,1250000,Lv. 20,154,130,77,53,24,null
+Happiny,440,126,100,5,5,15,65,30,220,Normal,null,NU,Natural Cure,Serene Grace,Friend Guard,24.4,40,1 HP,255,Pink,10240,F (100%),-,null,130,800000,null,126,440,null,null,96,null
+Hariyama,297,322,144,120,60,40,60,50,474,Fighting,null,RU,Thick Fat,Guts,Sheer Force,253.8,120,2 HP,184,Brown,null,M (75%),Human-Like,null,200,1640000,Lv. 24,322,297,null,49,null,null
+Haunter,93,101,45,50,45,115,55,95,405,Ghost,Poison,NU,Levitate,null,null,0.1,20,2 SpA,126,Purple,null,Neutral,Amorphous,null,90,1059860,Lv. 25,101,93,59,null,70,null
+Haxorus,612,612,76,147,90,60,70,97,540,Dragon,null,OU,Rivalry,Mold Breaker,Unnerve,105.5,100,3 Atk,243,Yellow,null,Neutral,Monster,Dragon,45,1250000,Lv. 48,612,612,null,null,null,118
+Heatmor,631,631,85,97,66,105,66,65,484,Fire,null,NU,Gluttony,Flash Fire,White Smoke,58,80,2 SpA,169,Red,5120,Neutral,Field,null,90,1000000,N,631,631,null,null,null,137
+Heatran,485,485,91,90,106,130,106,77,600,Fire,Steel,OU,Flash Fire,null,Flame Body,430,120,3 SpA,215,Brown,NONE,Neutral,-,null,3,1250000,N,485,485,null,null,null,null
+Heracross,214,243,80,125,75,40,95,85,500,Bug,Fighting,UU,Swarm,Guts,Moxie,54,80,2 Atk,200,Blue,6400,Neutral,Bug,null,45,1250000,N,243,214,113,168,62,null
+Herdier,507,507,65,80,65,35,65,60,370,Normal,null,NU,Intimidate,Sand Rush,Scrappy,14.7,40,2 Atk,130,Gray,null,Neutral,Field,null,120,1059860,Lv. 16,507,507,null,null,null,13
+Hippopotas,449,468,68,72,78,38,42,32,330,Ground,null,UU,Sand Stream,null,Sand Force,49.5,60,1 Def,95,Brown,7680,Neutral,Field,null,140,1250000,null,468,449,null,null,122,null
+Hippowdon,450,469,108,112,118,68,72,47,525,Ground,null,OU,Sand Stream,null,Sand Force,300,120,2 Def,198,Brown,null,Neutral,Field,null,60,1250000,Lv. 34,469,450,null,null,123,null
+Hitmonchan,107,117,50,105,79,35,110,76,455,Fighting,null,RU,Keen Eye,Iron Fist,Inner Focus,50.2,80,2 SpD,140,Brown,null,M (100%),Human-Like,null,45,1000000,Lv. 20 (Atk<Def),117,107,145,null,null,null
+Hitmonlee,106,116,50,120,53,35,110,87,455,Fighting,null,RU,Limber,Reckless,Unburden,49.8,60,2 Atk,139,Brown,null,M (100%),Human-Like,null,45,1000000,Lv. 20 (Atk>Def),116,106,144,null,null,null
+Hitmontop,237,118,50,95,95,35,110,70,455,Fighting,null,UU,Intimidate,Technician,Steadfast,48,60,2 SpD,138,Brown,null,M (100%),Human-Like,null,45,1000000,Lv. 20 (Atk=Def),118,237,146,null,null,null
+Honchkrow,430,227,100,125,52,105,52,71,505,Dark,Flying,RU,Insomnia,Super Luck,Moxie,27.3,60,2 Atk,187,Black,null,Neutral,Flying,null,30,1059860,Dusk Stone,227,430,null,null,75,null
+Ho_oh,250,274,106,130,90,110,154,90,680,Fire,Flying,Uber,Pressure,null,Regenerator,199,100,3 SpD,220,Red,NONE,None,-,null,3,1250000,N,274,250,248,null,null,null
+Hoothoot,163,194,60,30,30,36,56,50,262,Normal,Flying,NU,Insomnia,Keen Eye,Tinted Lens,21.2,40,1 HP,58,Brown,3840,Neutral,Flying,null,255,1000000,null,194,163,15,null,106,null
+Hoppip,187,215,35,35,40,35,55,50,250,Grass,Flying,NU,Chlorophyll,Leaf Guard,Infiltrator,0.5,20,1 SpD,74,Pink,5120,Neutral,Fairy,Grass,255,1059860,null,215,187,67,null,null,null
+Horsea,116,132,30,40,70,70,25,60,295,Water,null,NU,Swift Swim,Sniper,Damp,8,20,1 SpA,83,Blue,5120,Neutral,Water 1,Dragon,225,1000000,null,132,116,186,184,null,null
+Houndoom,229,261,75,90,50,110,80,95,500,Dark,Fire,UU,Early Bird,Flash Fire,Unnerve,35,60,2 SpA,204,Black,null,Neutral,Field,null,45,1250000,Lv. 24,261,229,210,null,177,null
+Houndour,228,260,45,60,30,80,50,65,330,Dark,Fire,NU,Early Bird,Flash Fire,Unnerve,10.8,40,1 SpA,114,Black,5120,Neutral,Field,null,120,1250000,null,260,228,209,null,176,null
+Huntail,367,396,55,104,105,94,75,52,485,Water,null,NU,Swift Swim,null,Water Veil,27,60,1 Atk/1 Def,178,Blue,null,Neutral,Water 1,null,60,600000,Trade w/ Deepseatooth,396,367,null,177,null,null
+Hydreigon,635,635,92,105,90,125,90,98,600,Dark,Dragon,OU,Levitate,null,null,160,100,3 SpA,270,Blue,null,Neutral,Dragon,null,45,1250000,Lv. 64,635,635,null,null,null,141
+Hypno,97,106,85,73,70,73,115,67,483,Psychic,null,NU,Insomnia,Forewarn,Inner Focus,75.6,80,2 SpD,165,Yellow,null,Neutral,Human-Like,null,75,1000000,Lv. 26,106,97,88,null,null,null
+Igglybuff,174,41,90,30,15,40,20,15,210,Normal,null,NU,Cute Charm,null,Friend Guard,1,20,1 HP,39,Pink,2560,F (75%),-,null,170,800000,null,41,174,43,137,null,null
+Illumise,314,339,65,47,55,73,75,85,400,Bug,null,NU,Oblivious,Tinted Lens,Prankster,17.7,40,1 Spe,146,Purple,3840,F (100%),Bug,Human-Like,150,1640000,N,339,314,null,87,null,null
+Infernape,392,421,76,104,71,104,71,108,534,Fire,Fighting,OU,Blaze,null,Iron Fist,55,80,1 Atk/1 SpA/1 Spe,209,Brown,null,M (87.5%),Field,Human-Like,45,1059860,Lv. 36,421,392,null,null,6,null
+Ivysaur,2,2,60,62,63,80,80,60,405,Grass,Poison,NU,Overgrow,null,Chlorophyll,13,40,1 SpA/1 SpD,141,Green,null,M (87.5%),Monster,Grass,45,1059860,Lv. 16,2,2,227,null,null,null
+Jellicent,593,593,100,60,70,85,105,60,480,Water,Ghost,OU,Water Absorb,Cursed Body,Damp,135,100,2 SpD,168,White,null,Neutral,Amorphous,null,60,1000000,Lv. 40,593,593,null,null,null,99
+Jigglypuff,39,42,115,45,20,45,25,20,270,Normal,null,NU,Cute Charm,null,Friend Guard,5.5,20,2 HP,76,Pink,null,F (75%),Fairy,null,170,800000,Friendship,42,39,44,138,null,null
+Jirachi,385,414,100,100,100,100,100,100,600,Steel,Psychic,OU,Serene Grace,null,null,1.1,20,3 HP,215,Yellow,NONE,None,-,null,3,1250000,N,414,385,null,201,null,null
+Jolteon,135,159,65,65,60,110,95,130,525,Electric,null,UU,Volt Absorb,null,Quick Feet,24.5,40,2 Spe,197,Yellow,null,M (87.5%),Field,null,45,1000000,Thunderstone,159,135,182,null,165,null
+Joltik,595,595,50,47,50,57,50,65,319,Bug,Electric,NU,Compoundeyes,Unnerve,Swarm,0.6,20,1 Spe,64,Yellow,5120,Neutral,Bug,null,190,1000000,null,595,595,null,null,null,101
+Jumpluff,189,217,75,55,70,55,85,110,450,Grass,Flying,NU,Chlorophyll,Leaf Guard,Infiltrator,3,20,3 Spe,176,Blue,null,Neutral,Fairy,Grass,45,1059860,Lv. 27,217,189,69,null,null,null
+Jynx,124,144,65,50,35,115,95,95,455,Ice,Psychic,NU,Oblivious,Forewarn,Dry Skin,40.6,60,2 SpA,137,Red,null,F (100%),Human-Like,null,45,1000000,Lv. 30,144,124,153,null,null,null
+Kabuto,140,170,30,80,90,55,45,55,355,Rock,Water,NU,Swift Swim,Battle Armor,Weak Armor,11.5,40,1 Def,99,Brown,7680,M (87.5%),Water 1,Water 3,45,1000000,null,170,140,222,null,null,null
+Kabutops,141,171,60,115,105,65,70,80,495,Rock,Water,NU,Swift Swim,Battle Armor,Weak Armor,40.5,60,2 Atk,199,Brown,null,M (87.5%),Water 1,Water 3,45,1000000,Lv. 40,171,141,223,null,null,null
+Kadabra,64,70,40,35,30,120,70,105,400,Psychic,null,NU,Synchronize,Inner Focus,Magic Guard,56.5,80,2 SpA,145,Brown,null,M (75%),Human-Like,null,100,1059860,Lv. 16,70,64,90,40,21,null
+Kakuna,14,14,45,25,50,25,25,35,205,Bug,Poison,NU,Shed Skin,null,null,10,20,2 Def,71,Yellow,null,Neutral,Bug,null,120,1000000,Lv. 7,14,14,28,null,null,null
+Kangaskhan,115,131,105,95,80,40,80,90,490,Normal,null,NU,Early Bird,Scrappy,Inner Focus,80,80,2 HP,175,Brown,5120,F (100%),Monster,null,45,1000000,N,131,115,205,null,null,null
+Karrablast,588,588,50,75,45,40,45,60,315,Bug,null,NU,Swarm,Shed Skin,No Guard,5.9,20,1 Atk,63,Blue,3840,Neutral,Bug,null,200,1000000,null,588,588,null,null,null,94
+Kecleon,352,379,60,90,70,60,120,40,440,Normal,null,NU,Color Change,null,null,22,40,1 SpD,132,Green,5120,Neutral,Field,null,200,1059860,N,379,352,null,145,null,null
+Keldeo,647,647,91,72,90,129,90,108,580,Water,Fighting,null,Justified,null,null,48.5,60,3 SpA,261,Yellow,NONE,None,-,null,3,1250000,N,647,647,null,null,null,153
+Kingdra,230,134,75,95,95,95,95,85,540,Water,Dragon,UU,Swift Swim,Sniper,Damp,152,100,1 Atk/1 SpA/1 SpD,207,Blue,null,Neutral,Water 1,Dragon,45,1000000,Trade h/ Dragon Scale,134,230,188,186,null,null
+Kingler,99,108,55,130,115,50,50,75,475,Water,null,NU,Hyper Cutter,Shell Armor,Sheer Force,60,80,2 Atk,206,Red,null,Neutral,Water 3,null,60,1000000,Lv. 28,108,99,165,null,null,null
+Kirlia,281,305,38,35,35,65,55,50,278,Psychic,null,NU,Synchronize,Trace,Telepathy,20.2,40,2 SpA,140,White,null,Neutral,Amorphous,null,120,1250000,Lv. 20,305,281,null,30,158,null
+Klang,600,600,60,80,95,70,85,50,440,Steel,null,NU,Plus,Minus,Clear Body,51,80,2 Def,154,Gray,null,None,Mineral,null,60,1059860,Lv. 38,600,600,null,null,null,106
+Klink,599,599,40,55,70,45,60,30,300,Steel,null,NU,Plus,Minus,Clear Body,21,40,1 Def,60,Gray,5120,None,Mineral,null,130,1059860,null,599,599,null,null,null,105
+Klinklang,601,601,60,100,115,70,85,90,520,Steel,null,NU,Plus,Minus,Clear Body,81,80,3 Def,234,Gray,null,None,Mineral,null,30,1059860,Lv. 49,601,601,null,null,null,107
+Koffing,109,121,40,65,95,60,45,35,340,Poison,null,NU,Levitate,null,null,1,20,1 Def,114,Purple,5120,Neutral,Amorphous,null,190,1000000,null,121,109,114,108,null,null
+Krabby,98,107,30,105,90,25,25,50,325,Water,null,NU,Hyper Cutter,Shell Armor,Sheer Force,6.5,20,1 Atk,115,Red,5120,Neutral,Water 3,null,225,1000000,null,107,98,164,null,null,null
+Kricketot,401,430,37,25,41,25,41,25,194,Bug,null,NU,Shed Skin,null,Run Away,2.2,20,1 Def,54,Red,3840,Neutral,Bug,null,255,1059860,null,430,401,null,null,15,null
+Kricketune,402,431,77,85,51,55,51,65,384,Bug,null,NU,Swarm,null,Technician,25.5,60,2 Atk,159,Red,null,Neutral,Bug,null,45,1059860,Lv. 10,431,402,null,null,16,null
+Krokorok,552,552,60,82,45,45,45,74,351,Ground,Dark,NU,Intimidate,Moxie,Anger Point,33.4,60,2 Atk,123,Brown,null,Neutral,Field,null,90,1059860,Lv. 29,552,552,null,null,null,58
+Krookodile,553,553,95,117,70,65,70,92,509,Ground,Dark,RU,Intimidate,Moxie,Anger Point,96.3,80,3 Atk,229,Red,null,Neutral,Field,null,45,1059860,Lv. 40,553,553,null,null,null,59
+Kyogre,382,411,100,100,90,150,140,90,670,Water,null,Uber,Drizzle,null,null,352,120,3 SpA,218,Blue,NONE,None,-,null,5,1250000,N,411,382,null,198,null,null
+Kyurem,646,646,125,130,90,130,90,95,660,Dragon,Ice,BL,Pressure,null,null,325,120,"1 HP, 1 Atk, 1 SpA",297,Gray,NONE,None,-,null,3,1250000,N,646,646,null,null,null,152
+Lairon,305,330,60,90,140,50,50,40,430,Steel,Rock,NU,Sturdy,Rock Head,Heavy Metal,120,100,2 Def,152,Gray,null,Neutral,Monster,null,90,1250000,Lv. 32,330,305,null,71,null,null
+Lampent,608,608,60,40,60,95,60,55,370,Ghost,Fire,NU,Flash Fire,Flame Body,Shadow Tag,13,40,2 SpA,130,Black,null,Neutral,Amorphous,null,90,1059860,Lv. 41,608,608,null,null,null,114
+Landorus,645,645,89,125,90,115,80,101,600,Ground,Flying,OU,Sand Force,null,Sheer Force,68,80,3 SpA,270,Brown,NONE,M (100%),-,null,3,1250000,N,645,645,null,null,null,151
+Lanturn,171,201,125,58,58,76,76,67,460,Water,Electric,NU,Volt Absorb,Illuminate,Water Absorb,22.5,40,2 HP,156,Blue,null,Neutral,Water 2,null,75,1250000,Lv. 27,201,171,175,182,null,null
+Lapras,131,155,130,85,80,85,95,60,535,Water,Ice,NU,Water Absorb,Shell Armor,Hydration,220,120,2 HP,219,Blue,10240,Neutral,Monster,Water 1,45,1250000,N,155,131,219,null,null,null
+Larvesta,636,636,55,85,55,50,55,60,360,Bug,Fire,NU,Flame Body,null,Swarm,28.8,60,1 Atk,72,White,10240,Neutral,Bug,null,45,1250000,null,636,636,null,null,null,142
+Larvitar,246,270,50,64,50,45,50,41,300,Rock,Ground,NU,Guts,null,Sand Veil,72,80,1 Atk,67,Green,10240,Neutral,Monster,null,45,1250000,null,270,246,244,null,null,null
+Latias,380,409,80,80,90,110,130,110,600,Dragon,Psychic,OU,Levitate,null,null,40,60,3 SpD,211,Red,NONE,F (100%),-,null,3,1250000,N,409,380,null,196,null,null
+Latios,381,410,80,90,80,130,110,110,600,Dragon,Psychic,OU,Levitate,null,null,60,80,3 SpA,211,Blue,NONE,M (100%),-,null,3,1250000,N,410,381,null,197,null,null
+Leafeon,470,163,65,110,130,60,65,95,525,Grass,null,NU,Leaf Guard,null,Chlorophyll,25.5,60,2 Def,196,Green,null,M (87.5%),Field,null,45,1000000,Level a/ Moss Rock,163,470,null,null,169,null
+Leavanny,542,542,75,103,80,70,70,92,490,Bug,Grass,NU,Swarm,Chlorophyll,Overcoat,20.5,40,3 Atk,221,Yellow,null,Neutral,Bug,null,45,1059860,Friendship,542,542,null,null,null,48
+Ledian,166,197,55,35,50,55,110,85,390,Bug,Flying,NU,Swarm,Early Bird,Iron Fist,35.6,60,2 SpD,134,Red,null,Neutral,Bug,null,90,800000,Lv. 18,197,166,31,null,null,null
+Ledyba,165,196,40,20,30,40,80,55,265,Bug,Flying,NU,Swarm,Early Bird,Rattled,10.8,40,1 SpD,54,Red,3840,Neutral,Bug,null,255,800000,null,196,165,30,null,null,null
+Lickilicky,463,120,110,85,95,80,95,50,515,Normal,null,NU,Own Tempo,Oblivious,Cloud Nine,140,100,3 HP,193,Pink,null,Neutral,Monster,null,30,1000000,Level w/ Rollout,120,463,null,null,162,null
+Lickitung,108,119,90,55,75,60,75,30,385,Normal,null,NU,Own Tempo,Oblivious,Cloud Nine,65.5,80,2 HP,127,Pink,5120,Neutral,Monster,null,45,1000000,null,119,108,178,null,161,null
+Liepard,510,510,64,88,50,88,50,106,446,Dark,null,NU,Limber,Unburden,Prankster,37.5,60,2 Spe,156,Purple,null,Neutral,Field,null,90,1000000,Lv. 20,510,510,null,null,null,16
+Lileep,345,372,66,41,77,61,87,23,355,Rock,Grass,NU,Suction Cups,null,Storm Drain,23.8,40,1 SpD,99,Purple,7680,M (87.5%),Water 3,null,45,600000,null,372,345,null,133,null,null
+Lilligant,549,549,70,60,75,110,75,90,480,Grass,null,RU,Chlorophyll,Own Tempo,Leaf Guard,16.3,40,2 SpA,168,Green,null,F (100%),Grass,null,75,1000000,Sun Stone,549,549,null,null,null,55
+Lillipup,506,506,45,60,45,25,45,55,275,Normal,null,NU,Vital Spirit,Pickup,Run Away,4.1,20,1 Atk,55,Brown,3840,Neutral,Field,null,255,1059860,null,506,506,null,null,null,12
+Linoone,264,288,78,70,61,50,61,100,420,Normal,null,NU,Pickup,Gluttony,Quick Feet,32.5,60,2 Spe,128,White,null,Neutral,Field,null,90,1000000,Lv. 20,288,264,null,13,null,null
+Litwick,607,607,50,30,55,65,55,20,275,Ghost,Fire,NU,Flash Fire,Flame Body,Shadow Tag,3.1,20,1 SpA,55,White,5120,Neutral,Amorphous,null,190,1059860,null,607,607,null,null,null,113
+Lombre,271,295,60,50,50,60,70,50,340,Water,Grass,NU,Swift Swim,Rain Dish,Own Tempo,32.5,60,2 SpD,141,Green,null,Neutral,Water 1,Grass,120,1059860,Lv. 14,295,271,null,20,null,null
+Lopunny,428,454,65,76,84,54,96,105,480,Normal,null,NU,Cute Charm,Klutz,Limber,33.3,60,2 Spe,178,Brown,null,Neutral,Field,Human-Like,60,1000000,Friendship,454,428,null,null,68,null
+Lotad,270,294,40,30,30,40,50,30,220,Water,Grass,NU,Swift Swim,Rain Dish,Own Tempo,2.6,20,1 SpD,74,Green,3840,Neutral,Water 1,Grass,255,1059860,null,294,270,null,19,null,null
+Loudred,294,319,84,71,43,71,43,48,360,Normal,null,NU,Soundproof,null,Scrappy,40.5,60,2 HP,126,Blue,null,Neutral,Monster,Field,120,1059860,Lv. 20,319,294,null,46,null,null
+Lucario,448,467,70,110,70,115,70,90,525,Fighting,Steel,OU,Steadfast,Inner Focus,Justified,54,80,1 Atk/1 SpA,204,Blue,null,M (87.5%),Field,Human-Like,45,1059860,Morn/Day Friendship,467,448,null,null,116,null
+Ludicolo,272,296,80,70,70,90,100,70,480,Water,Grass,NU,Swift Swim,Rain Dish,Own Tempo,55,80,3 SpD,181,Green,null,Neutral,Water 1,Grass,45,1059860,Water Stone,296,272,null,21,null,null
+Lugia,249,273,106,90,130,90,154,110,680,Psychic,Flying,Uber,Pressure,null,Multiscale,216,120,3 SpD,220,White,NONE,None,-,null,3,1250000,N,273,249,247,null,null,null
+Lumineon,457,476,69,69,76,69,86,91,460,Water,null,NU,Swift Swim,Storm Drain,Water Veil,24,40,2 Spe,156,Blue,null,Neutral,Water 2,null,75,600000,Lv. 31,476,457,null,null,135,null
+Lunatone,337,364,70,55,65,95,85,70,440,Rock,Psychic,NU,Levitate,null,null,168,100,2 SpA,150,Yellow,6400,None,Mineral,null,45,800000,N,364,337,null,125,null,null
+Luvdisc,370,399,43,30,55,40,65,97,330,Water,null,NU,Swift Swim,null,Hydration,8.7,20,1 Spe,110,Pink,5120,F (75%),Water 2,null,225,800000,N,399,370,null,183,null,null
+Luxio,404,433,60,85,49,60,49,60,363,Electric,null,NU,Rivalry,Intimidate,Guts,30.5,60,2 Atk,117,Blue,null,Neutral,Field,null,120,1059860,Lv. 15,433,404,null,null,18,null
+Luxray,405,434,80,120,79,95,79,70,523,Electric,null,NU,Rivalry,Intimidate,Guts,42,60,3 Atk,194,Blue,null,Neutral,Field,null,45,1059860,Lv. 30,434,405,null,null,19,null
+Machamp,68,74,90,130,80,65,85,55,505,Fighting,null,OU,Guts,No Guard,Steadfast,130,100,3 Atk,193,Gray,null,M (75%),Human-Like,null,45,1059860,Trade,74,68,142,75,42,null
+Machoke,67,73,80,100,70,50,60,45,405,Fighting,null,NU,Guts,No Guard,Steadfast,70.5,80,2 Atk,146,Gray,null,M (75%),Human-Like,null,90,1059860,Lv. 28,73,67,141,74,41,null
+Machop,66,72,70,80,50,35,35,35,305,Fighting,null,NU,Guts,No Guard,Steadfast,19.5,40,1 Atk,75,Gray,5120,M (75%),Human-Like,null,180,1059860,null,72,66,140,73,40,null
+Magby,240,148,45,75,37,70,55,83,365,Fire,null,NU,Flame Body,null,Vital Spirit,21.4,40,1 Spe,117,Red,6400,M (75%),-,null,45,1000000,null,148,240,150,null,200,null
+Magcargo,219,249,50,50,120,80,80,30,410,Fire,Rock,NU,Magma Armor,Flame Body,Weak Armor,55,80,2 Def,154,Red,null,Neutral,Amorphous,null,75,1000000,Lv. 38,249,219,212,104,null,null
+Magikarp,129,153,20,10,55,15,20,80,200,Water,null,NU,Swift Swim,null,Rattled,10,20,1 Spe,20,Red,1280,Neutral,Water 2,Dragon,255,1250000,null,153,129,76,52,23,null
+Magmar,126,149,65,95,57,100,85,93,495,Fire,null,NU,Flame Body,null,Vital Spirit,44.5,60,2 SpA,167,Red,null,M (75%),Human-Like,null,45,1000000,Lv. 30,149,126,151,null,201,null
+Magmortar,467,150,75,95,67,125,95,83,540,Fire,null,NU,Flame Body,null,Vital Spirit,68,80,3 SpA,199,Red,null,M (75%),Human-Like,null,30,1000000,Trade h/ Magmarizer,150,467,null,null,202,null
+Magnemite,81,88,25,35,70,95,55,45,325,Electric,Steel,NU,Magnet Pull,Sturdy,Analytic,6,20,1 SpA,89,Gray,5120,None,Mineral,null,190,1000000,null,88,81,118,82,178,null
+Magneton,82,89,50,60,95,120,70,70,465,Electric,Steel,NU,Magnet Pull,Sturdy,Analytic,60,80,2 SpA,161,Gray,null,None,Mineral,null,60,1000000,Lv. 30,89,82,119,83,179,null
+Magnezone,462,90,70,70,115,130,90,60,535,Electric,Steel,OU,Magnet Pull,Sturdy,Analytic,180,100,3 SpA,211,Gray,null,None,Mineral,null,30,1000000,Level a/ Mt. Coronet,90,462,null,null,180,null
+Makuhita,296,321,72,60,30,20,30,25,237,Fighting,null,NU,Thick Fat,Guts,Sheer Force,86.4,80,1 HP,87,Yellow,5120,M (75%),Human-Like,null,180,1640000,null,321,296,null,48,null,null
+Mamoswine,473,252,110,130,80,70,60,80,530,Ice,Ground,UU,Oblivious,Snow Cloak,Thick Fat,291,120,3 Atk,207,Brown,null,Neutral,Field,null,50,1250000,Level w/ Ancientpower,252,473,null,null,205,null
+Manaphy,490,490,100,100,100,100,100,100,600,Water,null,Uber,Hydration,null,null,1.4,20,3 HP,215,Blue,NONE,None,-,null,3,1250000,N,490,490,null,null,151,null
+Mandibuzz,630,630,110,65,105,55,95,80,510,Dark,Flying,RU,Big Pecks,Overcoat,Weak Armor,39.5,60,2 SpA,179,Brown,null,F (100%),Flying,null,60,1250000,Lv. 54,630,630,null,null,null,136
+Manectric,310,335,70,75,60,105,60,105,475,Electric,null,RU,Static,Lightningrod,Minus,40.2,60,2 Spe,168,Yellow,null,Neutral,Field,null,45,1250000,Lv. 26,335,310,null,79,null,null
+Mankey,56,61,40,80,35,35,45,70,305,Fighting,null,NU,Vital Spirit,Anger Point,Defiant,28,60,1 Atk,74,Brown,5120,Neutral,Field,null,190,1000000,null,61,56,134,null,null,null
+Mantine,226,258,65,40,70,80,140,70,465,Water,Flying,NU,Swift Swim,Water Absorb,Water Veil,220,120,2 SpD,168,Purple,6400,Neutral,Water 1,null,25,1250000,Level t/ Remoraid,258,226,197,null,141,null
+Mantyke,458,257,45,20,50,60,120,50,345,Water,Flying,NU,Swift Swim,Water Absorb,null,65,80,1 SpD,108,Blue,6400,Neutral,-,null,25,1250000,null,257,458,null,null,140,null
+Maractus,556,556,75,86,67,106,67,60,461,Grass,null,NU,Water Absorb,Chlorophyll,Storm Drain,28,60,2 SpA,161,Green,5120,Neutral,Grass,null,255,1000000,N,556,556,null,null,null,62
+Mareep,179,207,55,40,40,65,45,35,280,Electric,null,NU,Static,null,Plus,7.8,20,1 SpA,59,White,5120,Neutral,Monster,Field,235,1059860,null,207,179,53,null,null,null
+Marill,183,211,70,20,50,20,50,40,250,Water,null,NU,Thick Fat,Huge Power,Sap Sipper,8.5,20,2 HP,58,Blue,2560,Neutral,Water 1,Fairy,190,800000,Friendship,211,183,130,55,125,null
+Marowak,105,114,60,80,110,50,80,45,425,Ground,null,NU,Rock Head,Lightningrod,Battle Armor,45,60,2 Def,124,Brown,null,Neutral,Monster,null,75,1000000,Lv. 28,114,105,204,null,null,null
+Marshtomp,259,283,70,85,70,60,70,50,405,Water,Ground,NU,Torrent,null,Damp,28,60,2 Atk,143,Blue,null,M (87.5%),Monster,Water 1,45,1059860,Lv. 16,283,259,null,8,null,null
+Masquerain,284,309,70,60,62,80,82,60,414,Bug,Flying,NU,Intimidate,null,Unnerve,3.6,20,1 SpA/1 SpD,128,Blue,null,Neutral,Water 1,Bug,75,1000000,Lv. 22,309,284,null,33,null,null
+Mawile,303,328,50,85,85,55,55,50,380,Steel,null,NU,Hyper Cutter,Intimidate,Sheer Force,11.5,40,1 Atk/1 Def,98,Black,5120,Neutral,Field,Fairy,45,800000,N,328,303,null,69,null,null
+Medicham,308,333,60,60,75,60,75,80,410,Fighting,Psychic,RU,Pure Power,null,Telepathy,31.5,60,2 Spe,153,Red,null,Neutral,Human-Like,null,90,1000000,Lv. 37,333,308,null,77,87,null
+Meditite,307,332,30,40,55,40,55,60,280,Fighting,Psychic,NU,Pure Power,null,Telepathy,11.2,40,1 Spe,91,Blue,5120,Neutral,Human-Like,null,180,1000000,null,332,307,null,76,86,null
+Meganium,154,185,80,82,100,83,100,80,525,Grass,null,NU,Overgrow,null,Leaf Guard,100.5,100,1 Def/2 SpD,208,Green,null,M (87.5%),Monster,Grass,45,1059860,Lv. 32,185,154,3,null,null,null
+Meloetta_A,648,648,100,77,77,128,128,90,600,Normal,Psychic,null,Serene Grace,null,null,6.5,20,"1 Spe, 1 SpA, 1 SpD",270,White,NONE,None,-,null,3,1250000,N,648,648,null,null,null,154
+Meloetta_P,648.1,648.1,100,128,90,77,77,128,600,Normal,Fighting,null,Serene Grace,null,null,6.5,20,"1 Spe, 1 SpA, 1 SpD",270,White,NONE,None,-,null,3,1250000,N,648.1,648.1,null,null,null,154.1
+Meowth,52,57,40,45,35,40,40,90,290,Normal,null,NU,Pickup,Technician,Unnerve,4.2,20,1 Spe,69,Yellow,5120,Neutral,Field,null,255,1000000,null,57,52,136,null,null,null
+Mesprit,481,481,80,105,105,105,105,80,580,Psychic,null,NU,Levitate,null,null,0.3,20,1 Atk/1 SpA/1 SpD,210,Pink,NONE,None,-,null,3,1250000,N,481,481,null,null,147,null
+Metagross,376,405,80,135,130,95,90,70,600,Steel,Psychic,OU,Clear Body,null,Light Metal,550,120,3 Def,210,Blue,null,None,Mineral,null,3,1250000,Lv. 45,405,376,null,192,null,null
+Metang,375,404,60,75,100,55,80,50,420,Steel,Psychic,NU,Clear Body,null,Light Metal,202.5,120,2 Def,153,Blue,null,None,Mineral,null,3,1250000,Lv. 20,404,375,null,191,null,null
+Metapod,11,11,50,20,55,25,25,30,205,Bug,null,NU,Shed Skin,null,null,9.9,20,1 Def,72,Green,null,Neutral,Bug,null,120,1000000,Lv. 7,11,11,25,null,null,null
+Mew,151,182,100,100,100,100,100,100,600,Psychic,null,UU,Synchronize,null,null,4,20,3 HP,64,Pink,NONE,None,-,null,45,1059860,N,182,151,250,null,null,null
+Mewtwo,150,181,106,110,90,154,90,130,680,Psychic,null,Uber,Pressure,null,Unnerve,122,100,3 SpA,220,Purple,NONE,None,-,null,3,1250000,N,181,150,249,null,null,null
+Mienfoo,619,619,45,85,50,55,50,65,350,Fighting,null,NU,Inner Focus,Regenerator,Reckless,20,40,1 Atk,70,Yellow,6400,Neutral,Field,Human-Like,180,1059860,null,619,619,null,null,null,125
+Mienshao,620,620,65,125,60,95,60,105,510,Fighting,null,OU,Inner Focus,Regenerator,Reckless,35.5,60,2 Atk,179,Purple,null,Neutral,Field,Human-Like,45,1059860,Lv. 50,620,620,null,null,null,126
+Mightyena,262,286,70,90,70,60,60,70,420,Dark,null,NU,Intimidate,Quick Feet,Moxie,37,60,2 Atk,128,Gray,null,Neutral,Field,null,127,1000000,Lv. 18,286,262,null,11,null,null
+Milotic,350,377,95,60,79,100,125,81,540,Water,null,UU,Marvel Scale,null,Cute Charm,162,100,2 SpD,213,Pink,null,Neutral,Water 1,Dragon,60,600000,Level w/ Max Beauty,377,350,null,141,139,null
+Miltank,241,266,95,80,105,40,70,100,490,Normal,null,RU,Thick Fat,Scrappy,Sap Sipper,75.5,80,2 Def,200,Pink,5120,F (100%),Field,null,45,1250000,N,266,241,149,null,null,null
+MimeJr,439,139,20,25,45,70,90,60,310,Psychic,null,NU,Soundproof,Filter,Technician,13,40,1 SpD,78,Pink,6400,Neutral,-,null,145,1000000,null,139,439,null,null,94,null
+Minccino,572,572,55,50,40,40,40,75,300,Normal,null,NU,Cute Charm,Technician,Skill Link,5.8,20,1 Spe,60,Gray,3840,F (75%),Field,null,255,800000,null,572,572,null,null,null,78
+Minun,312,337,60,40,50,75,85,95,405,Electric,null,NU,Minus,null,null,4.2,20,1 Spe,120,Yellow,5120,Neutral,Fairy,null,200,1000000,N,337,312,null,81,null,null
+Misdreavus,200,228,60,60,60,85,85,85,435,Ghost,null,NU,Levitate,null,null,1,20,1 SpD,147,Gray,6400,Neutral,Amorphous,null,45,800000,null,228,200,214,null,72,null
+Mismagius,429,229,60,60,60,105,105,105,495,Ghost,null,UU,Levitate,null,null,4.4,20,1 SpA/1 SpD,187,Purple,null,Neutral,Amorphous,null,45,800000,Dusk Stone,229,429,null,null,73,null
+Moltres,146,177,90,100,90,125,85,90,580,Fire,Flying,RU,Pressure,null,Flame Body,60,80,3 SpA,217,Yellow,NONE,None,-,null,3,1250000,N,177,146,237,null,null,null
+Monferno,391,420,64,78,52,78,52,81,405,Fire,Fighting,NU,Blaze,null,Iron Fist,22,40,1 Spe/1 SpA,142,Brown,null,M (87.5%),Field,Human-Like,45,1059860,Lv. 14,420,391,null,null,5,null
+Mothim,414,441,70,94,50,94,50,66,424,Bug,Flying,NU,Swarm,null,Tinted Lens,23.3,40,1 Atk/1 SpA,159,Yellow,null,M (100%),Bug,null,45,1000000,Lv. 20M,441,414,null,null,47,null
+MrMime,122,140,40,45,65,100,120,90,460,Psychic,null,NU,Soundproof,Filter,Technician,54.5,80,2 SpD,136,Pink,6400,Neutral,Human-Like,null,45,1000000,Level w/ Mimic,140,122,156,null,95,null
+Mudkip,258,282,50,70,50,50,50,40,310,Water,null,NU,Torrent,null,Damp,7.6,20,1 Atk,65,Blue,5120,M (87.5%),Monster,Water 1,45,1059860,null,282,258,null,7,null,null
+Muk,89,97,105,105,75,65,100,50,500,Poison,null,NU,Stench,Sticky Hold,Poison Touch,30,60,1 HP/1 Atk,157,Purple,null,Neutral,Amorphous,null,75,1000000,Lv. 38,97,89,117,107,null,null
+Munchlax,446,173,135,85,40,40,85,5,390,Normal,null,NU,Pickup,Thick Fat,Gluttony,105,100,1 HP,94,Black,10240,M (87.5%),-,null,50,1250000,null,173,446,null,null,112,null
+Munna,517,517,76,25,45,67,55,24,292,Psychic,null,NU,Forewarn,Synchronize,Telepathy,23.3,40,1 HP,58,Pink,2560,Neutral,Field,null,190,800000,null,517,517,null,null,null,23
+Murkrow,198,226,60,85,42,85,42,91,405,Dark,Flying,NU,Insomnia,Super Luck,Prankster,2.1,20,1 Spe,107,Black,5120,Neutral,Flying,null,30,1059860,null,226,198,208,null,74,null
+Musharna,518,518,116,55,85,107,95,29,487,Psychic,null,NU,Forewarn,Synchronize,Telepathy,60.5,80,2 HP,170,Pink,null,Neutral,Field,null,75,800000,Moon Stone,518,518,null,null,null,24
+Natu,177,205,40,50,45,70,45,70,320,Psychic,Flying,NU,Synchronize,Early Bird,Magic Bounce,2,20,1 SpA,73,Green,5120,Neutral,Flying,null,190,1000000,null,205,177,159,162,null,null
+Nidoking,34,35,81,92,77,85,75,85,495,Poison,Ground,UU,Poison Point,Rivalry,Sheer Force,62,80,3 Atk,195,Purple,null,M (100%),Monster,Field,45,1059860,Moon Stone,35,34,100,null,null,null
+Nidoqueen,31,32,90,82,87,75,85,76,495,Poison,Ground,UU,Poison Point,Rivalry,Sheer Force,60,80,3 HP,194,Blue,null,F (100%),-,null,45,1059860,Moon Stone,32,31,97,null,null,null
+Nidoran_Female,29,30,55,47,52,40,40,41,275,Poison,null,NU,Poison Point,Rivalry,Hustle,7,20,1 HP,59,Blue,5120,F (100%),Monster,Field,235,1059860,null,30,29,95,null,null,null
+Nidoran_Male,32,33,46,57,40,40,40,50,273,Poison,null,NU,Poison Point,Rivalry,Hustle,9,20,1 Atk,60,Purple,5120,M (100%),Monster,Field,235,1059860,null,33,32,98,null,null,null
+Nidorina,30,31,70,62,67,55,55,56,365,Poison,null,NU,Poison Point,Rivalry,Hustle,20,40,2 HP,117,Blue,null,F (100%),-,null,120,1059860,Lv. 16,31,30,96,null,null,null
+Nidorino,33,34,61,72,57,55,55,65,365,Poison,null,NU,Poison Point,Rivalry,Hustle,19.5,40,2 Atk,118,Purple,null,M (100%),Monster,Field,120,1059860,Lv. 16,34,33,99,null,null,null
+Nincada,290,315,31,45,90,30,30,40,266,Bug,Ground,NU,Compoundeyes,null,Run Away,5.5,20,1 Def,65,Gray,3840,Neutral,Bug,null,255,600000,null,315,290,null,42,null,null
+Ninetales,38,40,73,76,75,81,100,100,505,Fire,null,OU,Flash Fire,null,Drought,19.9,40,1 SpD/1 Spe,178,Yellow,null,F (75%),Field,null,75,1000000,Fire Stone,40,38,126,154,null,null
+Ninjask,291,316,61,90,45,50,50,160,456,Bug,Flying,NU,Speed Boost,null,Infiltrator,12,40,2 Spe,155,Yellow,null,Neutral,Bug,null,120,600000,Lv. 20,316,291,null,43,null,null
+Noctowl,164,195,100,50,50,76,96,70,442,Normal,Flying,NU,Insomnia,Keen Eye,Tinted Lens,40.8,60,2 HP,162,Brown,null,Neutral,Flying,null,90,1000000,Lv. 20,195,164,16,null,107,null
+Nosepass,299,323,30,45,135,45,90,30,375,Rock,null,NU,Sturdy,Magnet Pull,Sand Force,97,80,1 Def,108,Gray,5120,Neutral,Mineral,null,255,1000000,null,323,299,null,60,155,null
+Numel,322,349,60,60,40,65,45,35,305,Fire,Ground,NU,Oblivious,Simple,Own Tempo,24,40,1 SpA,88,Yellow,5120,Neutral,Field,null,255,1000000,null,349,322,null,101,null,null
+Nuzleaf,274,298,70,70,40,60,40,60,340,Grass,Dark,NU,Chlorophyll,Early Bird,Pickpocket,28,60,2 Atk,141,Brown,null,Neutral,Field,Grass,120,1059860,Lv. 14,298,274,null,23,null,null
+Octillery,224,255,75,105,75,105,75,45,480,Water,null,NU,Suction Cups,Sniper,Moody,28.5,60,1 Atk/1 SpA,164,Red,null,Neutral,Water 1,Water 2,75,1000000,Lv. 25,255,224,173,null,133,null
+Oddish,43,47,45,50,55,75,65,30,320,Grass,Poison,NU,Chlorophyll,null,Run Away,5.4,20,1 SpA,78,Blue,5120,Neutral,Grass,null,255,1059860,null,47,43,83,88,null,null
+Omanyte,138,168,35,40,100,90,55,35,355,Rock,Water,NU,Swift Swim,Shell Armor,Weak Armor,7.5,20,1 Def,99,Blue,7680,M (87.5%),Water 1,Water 3,45,1000000,null,168,138,220,null,null,null
+Omastar,139,169,70,60,125,115,70,55,495,Rock,Water,RU,Swift Swim,Shell Armor,Weak Armor,35,60,2 Def,199,Blue,null,M (87.5%),Water 1,Water 3,45,1000000,Lv. 40,169,139,221,null,null,null
+Onix,95,103,35,45,160,30,45,70,385,Rock,Ground,NU,Rock Head,Sturdy,Weak Armor,210,120,1 Def,108,Gray,6140,Neutral,Mineral,null,45,1000000,null,103,95,62,null,34,null
+Oshawott,501,501,55,55,45,63,45,45,308,Water,null,NU,Torrent,null,Shell Armor,5.9,20,1 SpA,28,Blue,5120,M (87.5%),Field,null,45,1059860,null,501,501,null,null,null,7
+Pachirisu,417,444,60,45,70,45,90,95,405,Electric,null,NU,Run Away,Pickup,Volt Absorb,3.9,20,1 Spe,120,White,2560,Neutral,Field,Fairy,200,1000000,N,444,417,null,null,55,null
+Palkia,484,484,90,120,100,150,120,100,680,Water,Dragon,Uber,Pressure,null,Telepathy,336,120,3 SpA,220,Purple,NONE,None,-,null,30,1250000,N,484,484,null,null,150,null
+Palpitoad,536,536,75,65,55,65,55,69,384,Water,Ground,NU,Swift Swim,Hydration,Water Absorb,17,40,2 HP,134,Blue,null,Neutral,Water 1,null,120,1059860,Lv. 25,536,536,null,null,null,42
+Panpour,515,515,50,53,48,53,48,64,316,Water,null,NU,Gluttony,null,Torrent,13.5,40,1 Spe,63,Blue,5120,M (87.5%),Field,null,190,1000000,null,515,515,null,null,null,21
+Pansage,511,511,50,53,48,53,48,64,316,Grass,null,NU,Gluttony,null,Overgrow,10.5,40,1 Spe,63,Green,5120,M (87.5%),Field,null,190,1000000,null,511,511,null,null,null,17
+Pansear,513,513,50,53,48,53,48,64,316,Fire,null,NU,Gluttony,null,Blaze,11,40,1 Spe,63,Red,5120,M (87.5%),Field,null,190,1000000,null,513,513,null,null,null,19
+Paras,46,51,35,70,55,45,55,25,285,Bug,Grass,NU,Effect Spore,Dry Skin,Damp,5.4,20,1 Atk,70,Red,5120,Neutral,Bug,Grass,190,1000000,null,51,46,70,null,null,null
+Parasect,47,52,60,95,80,60,80,30,405,Bug,Grass,NU,Effect Spore,Dry Skin,Damp,29.5,60,2 Atk/1 Def,128,Red,null,Neutral,Bug,Grass,75,1000000,Lv. 24,52,47,71,null,null,null
+Patrat,504,504,45,55,39,35,39,42,255,Normal,null,NU,Run Away,Keen Eye,Analytic,11.6,40,1 Atk,51,Brown,3840,Neutral,Field,null,255,1000000,null,504,504,null,null,null,10
+Pawniard,624,624,45,85,70,40,40,60,340,Dark,Steel,NU,Defiant,Inner Focus,Pressure,10.2,40,1 Atk,68,Red,5120,Neutral,Human-Like,null,120,1000000,null,624,624,null,null,null,130
+Pelipper,279,303,60,50,100,85,70,65,430,Water,Flying,NU,Keen Eye,null,Rain Dish,28,60,2 Def,164,Yellow,null,Neutral,Water 1,Flying,45,1000000,Lv. 25,303,279,null,28,120,null
+Persian,53,58,65,70,60,65,65,115,440,Normal,null,NU,Limber,Technician,Unnerve,32,60,2 Spe,148,Yellow,null,Neutral,Field,null,90,1000000,Lv. 28,58,53,137,null,null,null
+Petilil,548,548,45,35,50,70,50,30,280,Grass,null,NU,Chlorophyll,Own Tempo,Leaf Guard,6.6,20,1 SpA,56,Green,5120,F (100%),Grass,null,190,1000000,null,548,548,null,null,null,54
+Phanpy,231,262,90,60,60,40,40,40,330,Ground,null,NU,Pickup,null,Sand Veil,33.5,60,1 HP,124,Blue,5120,Neutral,Field,null,120,1000000,null,262,231,195,165,null,null
+Phione,489,489,80,80,80,80,80,80,480,Water,null,NU,Hydration,null,null,3.1,20,1 HP,165,Blue,NONE,None,-,null,30,1250000,N,489,489,null,null,null,null
+Pichu,172,25,20,40,15,35,35,60,205,Electric,null,NU,Static,null,Lightningrod,2,20,1 Spe,42,Yellow,2560,Neutral,-,null,190,1000000,null,25,172,21,155,103,null
+Pidgeot,18,18,83,80,75,70,70,91,469,Normal,Flying,NU,Keen Eye,Tangled Feet,Big Pecks,39.5,60,3 Spe,172,Brown,null,Neutral,Flying,null,45,1059860,Lv. 36,18,18,12,null,null,null
+Pidgeotto,17,17,63,60,55,50,50,71,349,Normal,Flying,NU,Keen Eye,Tangled Feet,Big Pecks,30,60,2 Spe,113,Brown,null,Neutral,Flying,null,120,1059860,Lv. 18,17,17,11,null,null,null
+Pidgey,16,16,40,45,40,35,35,56,251,Normal,Flying,NU,Keen Eye,Tangled Feet,Big Pecks,1.8,20,1 Spe,55,Brown,3840,Neutral,Flying,null,255,1059860,null,16,16,10,null,null,null
+Pidove,519,519,50,55,50,36,30,43,264,Normal,Flying,NU,Big Pecks,Super Luck,Rivalry,2.1,20,1 Atk,53,Gray,3840,Neutral,Flying,null,255,1059860,null,519,519,null,null,null,25
+Pignite,499,499,90,93,55,70,55,55,418,Fire,Fighting,NU,Blaze,null,Thick Fat,55.5,80,2 Atk,146,Red,null,M (87.5%),Field,null,45,1059860,Lv. 17,499,499,null,null,null,5
+Pikachu,25,26,35,55,30,50,40,90,300,Electric,null,NU,Static,null,Lightningrod,6,20,2 Spe,82,Yellow,null,Neutral,Field,Fairy,190,1000000,Friendship,26,25,22,156,104,null
+Piloswine,221,251,100,100,80,60,60,50,450,Ice,Ground,NU,Oblivious,Snow Cloak,Thick Fat,55.8,80,1 HP/1 Atk,160,Brown,null,Neutral,Field,null,75,1250000,Lv. 33,251,221,192,null,204,null
+Pineco,204,234,50,65,90,35,35,15,290,Bug,null,NU,Sturdy,null,Overcoat,7.2,20,1 Def,60,Gray,5120,Neutral,Bug,null,190,1000000,null,234,204,93,null,null,null
+Pinsir,127,151,65,125,100,55,70,85,500,Bug,null,NU,Hyper Cutter,Mold Breaker,Moxie,55,80,2 Atk,200,Brown,6400,Neutral,Bug,null,45,1250000,N,151,127,112,167,null,null
+Piplup,393,422,53,51,53,61,56,40,314,Water,null,NU,Torrent,null,Defiant,5.2,20,1 SpA,66,Blue,5120,M (87.5%),Water 1,Field,45,1059860,null,422,393,null,null,7,null
+Plusle,311,336,60,50,40,85,75,95,405,Electric,null,NU,Plus,null,null,4.2,20,1 Spe,120,Yellow,5120,Neutral,Fairy,null,200,1000000,N,336,311,null,80,null,null
+Politoed,186,68,90,75,75,90,100,70,500,Water,null,OU,Water Absorb,Damp,Drizzle,33.9,60,3 SpD,185,Green,null,Neutral,Water 1,null,45,1059860,Trade h/ Kings Rock,68,186,75,null,null,null
+Poliwag,60,65,40,50,40,40,40,90,300,Water,null,NU,Water Absorb,Damp,Swift Swim,12.4,40,1 Spe,77,Blue,5120,Neutral,Water 1,null,255,1059860,null,65,60,72,null,null,null
+Poliwhirl,61,66,65,65,65,50,50,90,385,Water,null,NU,Water Absorb,Damp,Swift Swim,20,40,2 Spe,131,Blue,null,Neutral,Water 1,null,120,1059860,Lv. 25,66,61,73,null,null,null
+Poliwrath,62,67,90,85,95,70,90,70,500,Water,Fighting,RU,Water Absorb,Damp,Swift Swim,54,80,3 Def,185,Blue,null,Neutral,Water 1,null,45,1059860,Water Stone,67,62,74,null,null,null
+Ponyta,77,83,50,85,55,65,65,90,410,Fire,null,NU,Run Away,Flash Fire,Flame Body,30,60,1 Spe,152,Yellow,5120,Neutral,Field,null,190,1000000,null,83,77,201,null,77,null
+Poochyena,261,285,35,55,35,30,30,35,220,Dark,null,NU,Run Away,Quick Feet,Rattled,13.6,40,1 Atk,55,Gray,3840,Neutral,Field,null,255,1000000,null,285,261,null,10,null,null
+Porygon,137,165,65,60,70,85,75,40,395,Normal,null,NU,Trace,Download,Analytic,36.5,60,1 SpA,130,Pink,5120,None,Mineral,null,45,1000000,null,165,137,215,null,192,null
+Porygon_Z,474,167,85,80,70,135,75,90,535,Normal,null,RU,Adaptability,Download,Analytic,34,60,3 SpA,185,Red,null,None,Mineral,null,30,1000000,Trade w/ Dubious Disc,167,474,null,null,194,null
+Porygon2,233,166,85,80,90,105,95,60,515,Normal,null,OU,Trace,Download,Analytic,32.5,60,2 SpA,180,Red,null,None,Mineral,null,45,1000000,Trade w/ Up-Grade,166,233,216,null,193,null
+Primeape,57,62,65,105,60,60,70,95,455,Fighting,null,RU,Vital Spirit,Anger Point,Defiant,32,60,2 Atk,149,Brown,null,Neutral,Field,null,75,1000000,Lv. 28,62,57,135,null,null,null
+Prinplup,394,423,64,66,68,81,76,50,405,Water,null,NU,Torrent,null,Defiant,23,40,2 SpA,143,Blue,null,M (87.5%),Water 1,Field,45,1059860,Lv. 16,423,394,null,null,8,null
+Probopass,476,324,60,55,145,75,150,40,525,Rock,Steel,NU,Sturdy,Magnet Pull,Sand Force,340,120,1 Def/2 SpD,198,Gray,null,Neutral,Mineral,null,60,1000000,Level a/ Mt. Coronet,324,476,null,null,156,null
+Psyduck,54,59,50,52,48,65,50,55,320,Water,null,NU,Damp,Cloud Nine,Swift Swim,19.6,40,1 SpA,80,Yellow,5120,Neutral,Water 1,Field,190,1000000,null,59,54,138,158,43,null
+Pupitar,247,271,70,84,70,65,70,51,410,Rock,Ground,NU,Shed Skin,null,null,152,100,2 Atk,144,Gray,null,Neutral,Monster,null,45,1250000,Lv. 30,271,247,245,null,null,null
+Purrloin,509,509,41,50,37,50,37,66,281,Dark,null,NU,Limber,Unburden,Prankster,10.1,40,1 Spe,56,Purple,5120,Neutral,Field,null,255,1000000,null,509,509,null,null,null,15
+Purugly,432,456,71,82,64,64,59,112,452,Normal,null,NU,Thick Fat,Own Tempo,Defiant,43.8,60,2 Spe,183,Gray,null,F (75%),Field,null,75,800000,Lv. 38,456,432,null,null,77,null
+Quagsire,195,225,95,85,85,65,65,35,430,Water,Ground,RU,Damp,Water Absorb,Unaware,75,80,2 HP,137,Blue,null,Neutral,Water 1,Field,90,1000000,Lv. 20,225,195,57,null,118,null
+Quilava,156,187,58,64,58,80,65,80,405,Fire,null,NU,Blaze,null,Flash Fire,19,40,1 SpA/1 Spe,142,Yellow,null,M (87.5%),Field,null,45,1059860,Lv. 14,187,156,5,null,null,null
+Qwilfish,211,241,65,95,75,55,55,85,430,Water,Poison,RU,Poison Point,Swift Swim,Intimidate,3.9,20,1 Atk,100,Gray,5120,Neutral,Water 2,null,45,1000000,N,241,211,161,null,null,null
+Raichu,26,27,60,90,55,90,80,100,475,Electric,null,NU,Static,null,Lightningrod,30,60,3 Spe,122,Yellow,null,Neutral,Field,Fairy,75,1000000,Thunderstone,27,26,23,157,105,null
+Raikou,243,267,90,85,75,115,100,115,580,Electric,null,UU,Pressure,null,Volt Absorb,178,100,1 SpA/2 Spe,216,Yellow,NONE,None,-,null,3,1250000,N,267,243,238,null,null,null
+Ralts,280,304,28,25,25,45,35,40,198,Psychic,null,NU,Synchronize,Trace,Telepathy,6.6,20,1 SpA,70,White,5120,Neutral,Amorphous,null,235,1250000,null,304,280,null,29,157,null
+Rampardos,409,436,97,165,60,65,50,58,495,Rock,null,NU,Mold Breaker,null,Sheer Force,102.5,100,2 Atk,199,Blue,null,M (87.5%),Monster,null,45,600000,Lv. 30,436,409,null,null,37,null
+Rapidash,78,84,65,100,70,80,80,105,500,Fire,null,NU,Run Away,Flash Fire,Flame Body,95,80,1 Spe,192,Yellow,null,Neutral,Field,null,60,1000000,Lv. 40,84,78,202,null,78,null
+Raticate,20,20,55,81,60,50,70,97,413,Normal,null,NU,Run Away,Guts,Hustle,18.5,40,2 Spe,116,Brown,null,Neutral,Field,null,127,1000000,Lv. 20,20,20,18,null,null,null
+Rattata,19,19,30,56,35,25,35,72,253,Normal,null,NU,Run Away,Guts,Hustle,3.5,20,1 Spe,57,Purple,3840,Neutral,Field,null,255,1000000,null,19,19,17,null,null,null
+Rayquaza,384,413,105,150,90,150,90,95,680,Dragon,Flying,Uber,Air Lock,null,null,206.5,120,2 Atk/1 SpA,220,Green,NONE,None,-,null,3,1250000,N,413,384,null,200,null,null
+Regice,378,407,80,50,100,100,200,50,580,Ice,null,NU,Clear Body,null,Ice Body,175,100,3 SpD,216,Blue,NONE,None,-,null,3,1250000,N,407,378,null,194,null,null
+Regigigas,486,486,110,160,110,80,110,100,670,Normal,null,NU,Slow Start,null,null,420,120,3 Atk,220,White,NONE,None,-,null,3,1250000,N,486,486,null,null,null,null
+Regirock,377,406,80,100,200,50,100,50,580,Rock,null,NU,Clear Body,null,Sturdy,230,120,3 Def,217,Brown,NONE,None,-,null,3,1250000,N,406,377,null,193,null,null
+Registeel,379,408,80,75,150,75,150,50,580,Steel,null,UU,Clear Body,null,Light Metal,205,120,2 Def/1 SpD,215,Gray,NONE,None,-,null,3,1250000,N,408,379,null,195,null,null
+Relicanth,369,398,100,90,130,45,65,55,485,Water,Rock,NU,Swift Swim,Rock Head,Sturdy,23.4,40,1 HP/1 Def,198,Gray,10240,M (87.5%),Water 1,Water 2,25,1250000,N,398,369,null,179,null,null
+Remoraid,223,254,35,65,35,65,35,65,300,Water,null,NU,Hustle,Sniper,Moody,12,40,1 SpA,78,Gray,5120,Neutral,Water 1,Water 2,190,1000000,null,254,223,172,null,132,null
+Reshiram,643,643,100,120,100,150,120,90,680,Dragon,Fire,Uber,Turboblaze,null,null,330,120,3 SpA,306,White,NONE,None,-,null,45,1250000,N,643,643,null,null,null,149
+Reuniclus,579,579,110,65,75,125,85,30,490,Psychic,null,OU,Overcoat,Magic Guard,Regenerator,20.1,40,3 SpA,221,Green,null,Neutral,Amorphous,null,50,1059860,Lv. 41,579,579,null,null,null,85
+Rhydon,112,124,105,130,120,45,45,40,485,Ground,Rock,NU,Lightningrod,Rock Head,Reckless,120,100,2 Atk,204,Gray,null,Neutral,Monster,Field,60,1250000,Lv. 42,124,112,207,170,187,null
+Rhyhorn,111,123,80,85,95,30,30,25,345,Ground,Rock,NU,Lightningrod,Rock Head,Reckless,115,100,1 Def,135,Gray,5120,Neutral,Monster,Field,120,1250000,null,123,111,206,169,186,null
+Rhyperior,464,125,115,140,130,55,55,40,535,Ground,Rock,RU,Lightningrod,Solid Rock,Reckless,282.8,120,3 Atk,217,Gray,null,Neutral,Monster,Field,30,1250000,Trade h/ Protector,125,464,null,null,188,null
+Riolu,447,466,40,70,40,35,40,60,285,Fighting,null,NU,Steadfast,Inner Focus,Prankster,20.2,40,1 Atk,72,Blue,6400,M (87.5%),-,null,75,1059860,null,466,447,null,null,115,null
+Roggenrola,524,524,55,75,85,25,25,15,280,Rock,null,NU,Sturdy,null,Sand Force,18,40,1 Def,56,Blue,3840,Neutral,Mineral,null,255,1059860,null,524,524,null,null,null,30
+Roselia,315,341,50,60,45,100,80,65,400,Grass,Poison,NU,Natural Cure,Poison Point,Leaf Guard,2,20,2 SpA,152,Green,5120,Neutral,Fairy,Grass,150,1059860,Morn/Day Friendship,341,315,null,94,26,null
+Roserade,407,342,60,70,55,125,105,90,505,Grass,Poison,UU,Natural Cure,Poison Point,Technician,14.5,40,3 SpA,204,Green,null,Neutral,Fairy,Grass,75,1059860,Shiny Stone,342,407,null,null,27,null
+Rotom,479,479,50,50,77,95,77,91,440,Electric,Ghost,NU,Levitate,null,null,0.3,20,1 SpA/1 Spe,132,Red,5120,None,Amorphous,null,45,1000000,N,479,479,null,null,152,null
+Rotom_Cut,479.5,479.5,50,65,107,105,107,86,520,Electric,Grass,RU,Levitate,null,null,0.3,20,1 SpA/1 Spe,132,Red,null,None,Amorphous,null,45,1000000,N,479.5,479.5,null,null,152.5,null
+Rotom_Frost,479.3,479.3,50,65,107,105,107,86,520,Electric,Ice,NU,Levitate,null,null,0.3,20,1 SpA/1 Spe,132,Red,null,None,Amorphous,null,45,1000000,N,479.3,479.3,null,null,152.3,null
+Rotom_Heat,479.1,479.1,50,65,107,105,107,86,520,Electric,Fire,UU,Levitate,null,null,0.3,20,1 SpA/1 Spe,132,Red,null,None,Amorphous,null,45,1000000,N,479.1,479.1,null,null,152.1,null
+Rotom_Spin,479.4,479.4,50,65,107,105,107,86,520,Electric,Flying,NU,Levitate,null,null,0.3,20,1 SpA/1 Spe,132,Red,null,None,Amorphous,null,45,1000000,N,479.4,479.4,null,null,152.4,null
+Rotom_Wash,479.2,479.2,50,65,107,105,107,86,520,Electric,Water,OU,Levitate,null,null,0.3,20,1 SpA/1 Spe,132,Red,null,None,Amorphous,null,45,1000000,N,479.2,479.2,null,null,152.2,null
+Rufflet,627,627,70,83,50,37,50,60,350,Normal,Flying,NU,Keen Eye,Sheer Force,Hustle,10.5,40,1 Atk,70,White,5120,M (100%),Flying,null,190,1250000,null,627,627,null,null,null,133
+Sableye,302,327,50,75,75,65,65,50,380,Dark,Ghost,NU,Keen Eye,Stall,Prankster,11,40,1 Atk/1 Def,98,Purple,6400,Neutral,Human-Like,null,45,1059860,N,327,302,null,68,null,null
+Salamence,373,402,95,135,80,110,80,100,600,Dragon,Flying,OU,Intimidate,null,Moxie,102.6,100,3 Atk,218,Blue,null,Neutral,Dragon,null,45,1250000,Lv. 50,402,373,null,189,null,null
+Samurott,503,503,95,100,85,108,70,70,528,Water,null,NU,Torrent,null,Shell Armor,94.6,80,3 SpA,238,Blue,null,M (87.5%),Field,null,45,1059860,Lv. 36,503,503,null,null,null,9
+Sandile,551,551,50,72,35,35,35,65,292,Ground,Dark,NU,Intimidate,Moxie,Anger Point,15.2,40,1 Atk,58,Brown,5120,Neutral,Field,null,180,1059860,null,551,551,null,null,null,57
+Sandshrew,27,28,50,75,85,20,30,40,300,Ground,null,NU,Sand Veil,null,Sand Rush,12,40,1 Def,93,Yellow,5120,Neutral,Field,null,255,1000000,null,28,27,48,112,null,null
+Sandslash,28,29,75,100,110,45,55,65,450,Ground,null,NU,Sand Veil,null,Sand Rush,29.5,60,2 Def,163,Yellow,null,Neutral,Field,null,90,1000000,Lv. 22,29,28,49,113,null,null
+Sawk,539,539,75,125,75,30,75,85,465,Fighting,null,NU,Sturdy,Inner Focus,Mold Breaker,51,80,2 Atk,163,Blue,5120,M (100%),Human-Like,null,45,1000000,null,539,539,null,null,null,45
+Sawsbuck,586,586,80,100,70,60,70,95,475,Normal,Grass,UU,Chlorophyll,Sap Sipper,Serene Grace,92.5,80,2 Atk,166,Brown,null,Neutral,Field,null,75,1000000,Lv. 34,586,586,null,null,null,92
+Sceptile,254,278,70,85,65,105,85,120,530,Grass,null,RU,Overgrow,null,Unburden,52.2,80,3 Spe,208,Green,null,M (87.5%),Monster,Dragon,45,1059860,Lv. 36,278,254,null,3,null,null
+Scizor,212,142,70,130,100,55,80,65,500,Bug,Steel,OU,Swarm,Technician,Light Metal,118,100,2 Atk,200,Red,null,Neutral,Bug,null,25,1000000,Trade h/ Metal Coat,142,212,111,null,196,null
+Scolipede,545,545,60,90,89,55,69,112,475,Bug,Poison,RU,Poison Point,Swarm,Quick Feet,200.5,120,3 Spe,214,Red,null,Neutral,Bug,null,45,1059860,Lv. 30,545,545,null,null,null,51
+Scrafty,560,560,65,90,115,45,115,58,488,Dark,Fighting,OU,Shed Skin,Moxie,Intimidate,30,60,1 Def/1 SpD,171,Red,null,Neutral,Field,Dragon,90,1000000,null,560,560,null,null,null,66
+Scraggy,559,559,50,75,70,35,70,48,348,Dark,Fighting,NU,Shed Skin,Moxie,Intimidate,11.8,40,1 Atk,70,Yellow,3840,Neutral,Field,Dragon,180,1000000,null,559,559,null,null,null,65
+Scyther,123,141,70,110,80,55,80,105,500,Bug,Flying,RU,Swarm,Technician,Steadfast,56,80,1 Atk,187,Green,6400,Neutral,Bug,null,45,1000000,null,141,123,110,null,195,null
+Seadra,117,133,55,65,95,95,45,85,440,Water,null,NU,Poison Point,Sniper,Damp,25,40,1 Def/1 SpA,155,Blue,null,Neutral,Water 1,Dragon,75,1000000,Lv. 32,133,117,187,185,null,null
+Seaking,119,136,80,92,65,65,80,68,450,Water,null,NU,Swift Swim,Water Veil,Lightningrod,39,60,2 Atk,170,Red,null,Neutral,Water 2,null,60,1000000,Lv. 33,136,119,79,51,79,null
+Sealeo,364,393,90,60,70,75,70,45,410,Ice,Water,NU,Thick Fat,Ice Body,Oblivious,87.6,80,2 HP,128,Blue,null,Neutral,Water 1,Field,120,1059860,Lv. 32,393,364,null,174,null,null
+Seedot,273,297,40,40,50,30,30,30,220,Grass,null,NU,Chlorophyll,Early Bird,Pickpocket,4,20,1 Def,74,Brown,3840,Neutral,Field,Grass,255,1059860,null,297,273,null,22,null,null
+Seel,86,94,65,45,55,45,70,45,325,Water,null,NU,Thick Fat,Hydration,Ice Body,90,80,1 SpD,100,White,5120,Neutral,Water 1,Field,190,1000000,null,94,86,176,null,null,null
+Seismitoad,537,537,105,85,75,85,75,74,499,Water,Ground,NU,Swift Swim,Poison Touch,Water Absorb,62,80,3 HP,225,Blue,null,Neutral,Water 1,null,45,1059860,Lv. 36,537,537,null,null,null,43
+Sentret,161,192,35,46,34,35,45,20,215,Normal,null,NU,Run Away,Keen Eye,Frisk,6,20,1 Atk,57,Brown,3840,Neutral,Field,null,255,1000000,null,192,161,19,null,null,null
+Serperior,497,497,75,75,95,75,95,113,528,Grass,null,NU,Overgrow,null,Contrary,63,80,3 Spe,238,Green,null,M (87.5%),Field,Grass,45,1059860,Lv. 36,497,497,null,null,null,3
+Servine,496,496,60,60,75,60,75,83,413,Grass,null,NU,Overgrow,null,Contrary,16,40,2 Spe,145,Green,null,M (87.5%),Field,Grass,45,1059860,Lv. 17,496,496,null,null,null,2
+Seviper,336,363,73,100,60,100,60,65,458,Poison,null,NU,Shed Skin,null,Infiltrator,52.5,80,1 Atk/1 SpA,165,Black,5120,Neutral,Field,Dragon,90,1640000,N,363,336,null,124,null,null
+Sewaddle,540,540,45,53,70,40,60,42,310,Bug,Grass,NU,Swarm,Chlorophyll,Overcoat,2.5,20,1 Def,62,Yellow,3840,Neutral,Bug,null,255,1059860,null,540,540,null,null,null,46
+Sharpedo,319,346,70,120,40,95,40,95,460,Water,Dark,RU,Rough Skin,null,Speed Boost,88.8,80,2 Atk,175,Blue,null,Neutral,Water 2,null,60,1250000,Lv. 30,346,319,null,98,null,null
+Shaymin,492,492,100,100,100,100,100,100,600,Grass,null,UU,Natural Cure,null,null,2.1,20,3 HP,64,Green,NONE,None,-,null,45,1059860,N,492,492,null,null,null,null
+Shaymin_S,492.1,492.1,100,103,75,120,75,127,600,Grass,Flying,Uber,Serene Grace,null,null,5.2,20,3 HP,64,Green,NONE,None,-,null,45,1059860,N,492.1,492.1,null,null,null,null
+Shelgon,372,401,65,95,100,60,50,50,420,Dragon,null,NU,Rock Head,null,Overcoat,110.5,100,2 Def,144,White,null,Neutral,Dragon,null,45,1250000,Lv. 30,401,372,null,188,null,null
+Shellder,90,98,30,65,100,45,25,40,305,Water,null,NU,Shell Armor,Skill Link,Overcoat,4,20,1 Def,97,Purple,5120,Neutral,Water 3,null,190,1250000,null,98,90,169,null,null,null
+Shellos,422,449,76,48,48,57,62,34,325,Water,null,NU,Sticky Hold,Storm Drain,Sand Force,6.3,20,1 HP,73,Purple,5120,Neutral,Water 1,Amorphous,190,1000000,null,449,422,null,null,60,null
+Shelmet,616,616,50,40,85,40,65,25,305,Bug,null,NU,Hydration,Shell Armor,Overcoat,7.7,20,1 Def,61,Red,3840,Neutral,Bug,null,200,1000000,null,616,616,null,null,null,122
+Shieldon,410,437,30,42,118,42,88,30,350,Rock,Steel,NU,Sturdy,null,Soundproof,57,80,1 Def,99,Gray,7680,M (87.5%),Monster,null,45,600000,null,437,410,null,null,38,null
+Shiftry,275,299,90,100,60,90,60,80,480,Grass,Dark,NU,Chlorophyll,Early Bird,Pickpocket,59.6,80,3 Atk,181,Brown,null,Neutral,Field,Grass,45,1059860,Leaf Stone,299,275,null,24,null,null
+Shinx,403,432,45,65,34,40,34,45,263,Electric,null,NU,Rivalry,Intimidate,Guts,9.5,20,1Atk,60,Blue,5120,Neutral,Field,null,235,1059860,null,432,403,null,null,17,null
+Shroomish,285,310,60,40,60,40,60,35,295,Grass,null,NU,Effect Spore,Poison Heal,Quick Feet,4.5,20,1 HP,65,Brown,3840,Neutral,Fairy,Grass,255,1640000,null,310,285,null,34,null,null
+Shuckle,213,242,20,10,230,10,230,5,505,Bug,Rock,NU,Sturdy,Gluttony,Contrary,20.5,40,1 Def/1 SpD,80,Yellow,5120,Neutral,Bug,null,190,1059860,N,242,213,166,null,null,null
+Shuppet,353,380,44,75,35,63,33,45,295,Ghost,null,NU,Insomnia,Frisk,Cursed Body,2.3,20,1 Atk,97,Black,6400,Neutral,Amorphous,null,225,800000,null,380,353,null,146,null,null
+Sigilyph,561,561,72,58,80,103,80,97,490,Psychic,Flying,UU,Wonder Skin,Magic Guard,Tinted Lens,14,40,2 SpA,172,Black,5120,Neutral,Flying,null,45,1000000,null,561,561,null,null,null,67
+Silcoon,266,290,50,35,55,25,25,15,205,Bug,null,NU,Shed Skin,null,null,10,20,2 Def,72,White,null,Neutral,Bug,null,120,1000000,Lv. 7,290,266,null,15,49,null
+Simipour,516,516,75,98,63,98,63,101,498,Water,null,NU,Gluttony,null,Torrent,29,60,2 Spe,174,Blue,null,M (87.5%),Field,null,75,1000000,Water Stone,516,516,null,null,null,22
+Simisage,512,512,75,98,63,98,63,101,498,Grass,null,NU,Gluttony,null,Overgrow,30.5,60,2 Spe,174,Green,null,M (87.5%),Field,null,75,1000000,Leaf Stone,512,512,null,null,null,18
+Simisear,514,514,75,98,63,98,63,101,498,Fire,null,NU,Gluttony,null,Blaze,28,60,2 Spe,174,Red,null,M (87.5%),Field,null,75,1000000,Fire Stone,514,514,null,null,null,20
+Skarmory,227,259,65,80,140,40,70,70,465,Steel,Flying,OU,Keen Eye,Sturdy,Weak Armor,50.5,80,2 Def,168,Gray,6400,Neutral,Flying,null,25,1250000,N,259,227,198,115,null,null
+Skiploom,188,216,55,45,50,45,65,80,340,Grass,Flying,NU,Chlorophyll,Leaf Guard,Infiltrator,1,20,2 Spe,136,Green,null,Neutral,Fairy,Grass,120,1059860,Lv. 18,216,188,68,null,null,null
+Skitty,300,325,50,45,45,35,35,50,260,Normal,null,NU,Cute Charm,Normalize,Wonder Skin,11,40,1 Spe,65,Pink,3840,F (75%),Field,Fairy,255,800000,null,325,300,null,61,null,null
+Skorupi,451,470,40,50,90,30,55,65,330,Poison,Bug,NU,Battle Armor,Sniper,Keen Eye,12,40,1 Def,114,Purple,5120,Neutral,Bug,Water 3,120,1250000,null,470,451,null,null,127,null
+Skuntank,435,458,103,93,67,71,61,84,479,Poison,Dark,NU,Stench,Aftermath,Keen Eye,38,60,2 HP,209,Purple,null,Neutral,Field,null,60,1000000,Lv. 34,458,435,null,null,85,null
+Slaking,289,314,150,160,100,95,65,100,670,Normal,null,NU,Truant,null,null,130.5,100,3 HP,210,Brown,null,Neutral,Field,null,45,1250000,Lv. 36,314,289,null,38,null,null
+Slakoth,287,312,60,60,60,35,35,30,280,Normal,null,NU,Truant,null,null,24,40,1 HP,83,Brown,3840,Neutral,Field,null,255,1250000,null,312,287,null,36,null,null
+Slowbro,80,86,95,75,110,100,80,30,490,Water,Psychic,UU,Oblivious,Own Tempo,Regenerator,78.5,80,2 Def,164,Pink,null,Neutral,Monster,Water 1,75,1000000,Lv. 37,86,80,81,null,null,null
+Slowking,199,87,95,75,80,100,110,30,490,Water,Psychic,NU,Oblivious,Own Tempo,Regenerator,79.5,80,3 SpD,164,Pink,null,Neutral,Monster,Water 1,70,1000000,Trade h/ Kings Rock,87,199,82,null,null,null
+Slowpoke,79,85,90,65,65,40,40,15,315,Water,Psychic,NU,Oblivious,Own Tempo,Regenerator,36,60,1 HP,99,Pink,5120,Neutral,Monster,Water 1,190,1000000,null,85,79,80,null,null,null
+Slugma,218,248,40,40,40,70,40,20,250,Fire,null,NU,Magma Armor,Flame Body,Weak Armor,35,60,1 SpA,78,Red,5120,Neutral,Amorphous,null,190,1000000,null,248,218,211,103,null,null
+Smeargle,235,265,55,20,35,20,45,75,250,Normal,null,NU,Own Tempo,Technician,Moody,58,80,1 Spe,106,White,5120,Neutral,Field,null,45,800000,N,265,235,157,null,null,null
+Smoochum,238,143,45,30,15,85,65,65,305,Ice,Psychic,NU,Oblivious,Forewarn,Hydration,6,20,1 SpA,87,Pink,6400,F (100%),-,null,45,1000000,null,143,238,152,null,null,null
+Sneasel,215,244,55,95,55,35,75,115,430,Dark,Ice,NU,Inner Focus,Keen Eye,Pickpocket,28,60,1 Spe,132,Black,5120,Neutral,Field,null,60,1059860,null,244,215,213,null,144,null
+Snivy,495,495,45,45,55,45,55,63,308,Grass,null,NU,Overgrow,null,Contrary,8.1,40,1 Spe,28,Green,5120,M (87.5%),Field,Grass,45,1059860,null,495,495,null,null,null,1
+Snorlax,143,174,160,110,65,65,110,30,540,Normal,null,UU,Immunity,Thick Fat,Gluttony,460,120,2 HP,154,Black,10240,M (87.5%),Monster,null,25,1250000,Friendship,174,143,225,null,113,null
+Snorunt,361,389,50,50,50,50,50,50,300,Ice,null,NU,Inner Focus,Ice Body,Moody,16.8,40,1 HP,74,Gray,5120,Neutral,Fairy,Mineral,190,1000000,null,389,361,null,171,206,null
+Snover,459,477,60,62,50,62,60,40,334,Ice,Grass,RU,Snow Warning,null,Soundproof,50.5,80,1 Atk,131,White,5120,Neutral,Monster,Grass,120,1250000,null,477,459,null,null,142,null
+Snubbull,209,239,60,80,50,40,40,30,300,Normal,null,NU,Intimidate,Run Away,Rattled,7.8,20,1 Atk,63,Pink,5120,F (75%),Field,Fairy,190,800000,null,239,209,123,null,null,null
+Solosis,577,577,45,30,40,105,50,20,290,Psychic,null,NU,Overcoat,Magic Guard,Regenerator,1,20,1 SpA,58,Green,5120,Neutral,Amorphous,null,200,1059860,null,577,577,null,null,null,83
+Solrock,338,365,70,95,85,55,65,70,440,Rock,Psychic,NU,Levitate,null,null,154,100,2 Atk,150,Red,6400,None,Mineral,null,45,800000,N,365,338,null,126,null,null
+Spearow,21,21,40,60,30,31,31,70,262,Normal,Flying,NU,Keen Eye,null,Sniper,2,20,1 Spe,58,Brown,3840,Neutral,Flying,null,255,1000000,null,21,21,13,null,null,null
+Spheal,363,392,70,40,50,55,50,25,290,Ice,Water,NU,Thick Fat,Ice Body,Oblivious,39.5,60,1 HP,75,Blue,5120,Neutral,Water 1,Field,255,1059860,null,392,363,null,173,null,null
+Spinarak,167,198,40,60,40,40,40,30,250,Bug,Poison,NU,Swarm,Insomnia,Sniper,8.5,20,1 Atk,54,Green,3840,Neutral,Bug,null,255,800000,null,198,167,32,null,null,null
+Spinda,327,354,60,60,60,60,60,60,360,Normal,null,NU,Own Tempo,Tangled Feet,Contrary,5,20,1 SpA,85,Brown,3840,Neutral,Field,Human-Like,255,800000,N,354,327,null,114,null,null
+Spiritomb,442,462,50,92,108,92,108,35,485,Ghost,Dark,UU,Pressure,null,Infiltrator,108,100,1 Def/1 SpD,168,Purple,7680,Neutral,Amorphous,null,100,1000000,N,462,442,null,null,108,null
+Spoink,325,352,60,25,35,70,80,60,330,Psychic,null,NU,Thick Fat,Own Tempo,Gluttony,30.6,60,1 SpD,89,Black,5120,Neutral,Field,null,255,800000,null,352,325,null,110,null,null
+Squirtle,7,7,44,48,65,60,54,43,314,Water,null,NU,Torrent,null,Rain Dish,9,20,1 Def,66,Blue,5120,M (87.5%),Monster,Water 1,45,1059860,null,7,7,232,null,null,null
+Stantler,234,264,73,95,62,85,65,85,465,Normal,null,NU,Intimidate,Frisk,Sap Sipper,71.2,80,1 Atk,165,Brown,5120,Neutral,Field,null,45,1250000,N,264,234,129,null,null,null
+Staraptor,398,427,85,120,70,50,50,100,475,Normal,Flying,BL,Intimidate,null,Reckless,24.9,40,3 Atk,172,Brown,null,Neutral,Flying,null,45,1059860,Lv. 34,427,398,null,null,12,null
+Staravia,397,426,55,75,50,40,40,80,340,Normal,Flying,NU,Intimidate,null,Reckless,15.5,40,2 Spe,113,Brown,null,Neutral,Flying,null,120,1059860,Lv. 14,426,397,null,null,11,null
+Starly,396,425,40,55,30,30,30,60,245,Normal,Flying,NU,Keen Eye,null,null,2,20,1 Spe,56,Brown,3840,Neutral,Flying,null,255,1059860,null,425,396,null,null,10,null
+Starmie,121,138,60,75,85,100,85,115,520,Water,Psychic,OU,Illuminate,Natural Cure,Analytic,80,80,2 Spe,207,Purple,null,None,Water 3,null,60,1250000,Water Stone,138,121,168,144,null,null
+Staryu,120,137,30,45,55,70,55,85,340,Water,null,NU,Illuminate,Natural Cure,Analytic,34.5,60,1 Spe,106,Brown,5120,None,Water 3,null,225,1250000,null,137,120,167,143,null,null
+Steelix,208,104,75,85,200,55,65,30,510,Steel,Ground,RU,Rock Head,Sturdy,Sheer Force,400,120,2 Def,196,Gray,null,Neutral,Mineral,null,25,1000000,Trade h/ Metal Coat,104,208,63,null,35,null
+Stoutland,508,508,85,100,90,45,90,80,490,Normal,null,NU,Intimidate,Sand Rush,Scrappy,61,80,3 Atk,221,Gray,null,Neutral,Field,null,45,1059860,Lv. 32,508,508,null,null,null,14
+Stunfisk,618,618,109,66,84,81,99,32,471,Ground,Electric,NU,Static,Limber,Sand Veil,11,40,2 HP,165,Brown,5120,Neutral,Water 1,Amorphous,75,1000000,N,618,618,null,null,null,124
+Stunky,434,457,63,63,47,41,41,74,329,Poison,Dark,NU,Stench,Aftermath,Keen Eye,19.2,40,1 Spe,79,Purple,5120,Neutral,Field,null,225,1000000,null,457,434,null,null,84,null
+Sudowoodo,185,214,70,100,115,30,65,30,410,Rock,null,NU,Sturdy,Rock Head,Rattled,38,60,2 Def,135,Brown,5120,Neutral,Mineral,null,65,1000000,Level w/ Mimic,214,185,106,null,null,null
+Suicune,245,269,100,75,115,90,115,85,580,Water,null,UU,Pressure,null,Water Absorb,187,100,1 Def/2 SpD,215,Blue,NONE,None,-,null,3,1250000,N,269,245,240,null,null,null
+Sunflora,192,221,75,75,55,105,85,30,425,Grass,null,NU,Chlorophyll,Solar Power,Early Bird,8.5,20,2 SpA,146,Yellow,null,Neutral,Grass,null,120,1059860,Sun Stone,221,192,103,null,null,null
+Sunkern,191,220,30,30,30,30,30,30,180,Grass,null,NU,Chlorophyll,Solar Power,Early Bird,1.8,20,1 SpA,52,Yellow,5120,Neutral,Grass,null,235,1059860,null,220,191,102,null,null,null
+Surskit,283,308,40,30,32,50,52,65,269,Bug,Water,NU,Swift Swim,null,Rain Dish,1.7,20,1 Spe,63,Blue,3840,Neutral,Water 1,Bug,200,1000000,null,308,283,null,32,null,null
+Swablu,333,360,45,40,60,40,75,50,310,Normal,Flying,NU,Natural Cure,null,Cloud Nine,1.2,20,1 SpD,74,Blue,5120,Neutral,Flying,Dragon,255,600000,null,360,333,null,121,171,null
+Swadloon,541,541,55,63,90,50,80,42,380,Bug,Grass,NU,Leaf Guard,Chlorophyll,Overcoat,7.3,20,2 Def,133,Green,null,Neutral,Bug,null,120,1059860,Lv. 20,541,541,null,null,null,47
+Swalot,317,344,100,73,83,73,83,55,467,Poison,null,NU,Liquid Ooze,Sticky Hold,Gluttony,80,80,2 HP,168,Purple,null,Neutral,Amorphous,null,75,1640000,Lv. 26,344,317,null,96,null,null
+Swampert,260,284,100,110,90,85,90,60,535,Water,Ground,OU,Torrent,null,Damp,81.9,80,3 Atk,210,Blue,null,M (87.5%),Monster,Water 1,45,1059860,Lv. 36,284,260,null,9,null,null
+Swanna,581,581,75,87,63,87,63,98,473,Water,Flying,NU,Keen Eye,Big Pecks,Hydration,24.2,40,2 Spe,166,White,null,Neutral,Water 1,Flying,45,1000000,Lv. 35,581,581,null,null,null,87
+Swellow,277,301,60,85,60,50,50,125,430,Normal,Flying,NU,Guts,null,Scrappy,19.8,40,2 Spe,162,Blue,null,Neutral,Flying,null,45,1059860,Lv. 22,301,277,null,26,null,null
+Swinub,220,250,50,50,40,30,30,50,250,Ice,Ground,NU,Oblivious,Snow Cloak,Thick Fat,6.5,20,1 Atk,78,Brown,5120,Neutral,Field,null,225,1250000,null,250,220,191,null,203,null
+Swoobat,528,528,67,57,55,77,55,114,425,Psychic,Flying,NU,Unaware,Klutz,Simple,10.5,40,2 Spe,149,Blue,null,Neutral,Field,Flying,45,1000000,Friendship,528,528,null,null,null,34
+Taillow,276,300,40,55,30,30,30,85,270,Normal,Flying,NU,Guts,null,Scrappy,2.3,20,1 Spe,59,Blue,3840,Neutral,Flying,null,200,1059860,null,300,276,null,25,null,null
+Tangela,114,129,65,55,115,100,40,60,435,Grass,null,RU,Chlorophyll,Leaf Guard,Regenerator,35,60,1 Def,166,Blue,5120,Neutral,Grass,null,45,1000000,null,129,114,179,null,181,null
+Tangrowth,465,130,100,100,125,110,50,50,535,Grass,null,UU,Chlorophyll,Leaf Guard,Regenerator,128.6,100,2 Def,211,Blue,null,Neutral,Grass,null,30,1000000,Level w/ Ancientpower,130,465,null,null,182,null
+Tauros,128,152,75,100,95,40,70,110,490,Normal,null,NU,Intimidate,Anger Point,Sheer Force,88.4,80,1 Atk/1 Spe,211,Brown,5120,M (100%),Field,null,45,1250000,N,152,128,148,null,null,null
+Teddiursa,216,246,60,80,50,50,50,40,330,Normal,null,NU,Pickup,Quick Feet,Honey Gather,8.8,20,1 Atk,124,Brown,5120,Neutral,Field,null,120,1000000,null,246,216,193,null,null,null
+Tentacool,72,78,40,40,35,50,100,70,335,Water,Poison,NU,Clear Body,Liquid Ooze,Rain Dish,45.5,60,1 SpD,105,Blue,5120,Neutral,Water 3,null,190,1250000,null,78,72,162,66,136,null
+Tentacruel,73,79,80,70,65,80,120,100,515,Water,Poison,OU,Clear Body,Liquid Ooze,Rain Dish,55,80,2 SpD,205,Blue,null,Neutral,Water 3,null,60,1250000,Lv. 30,79,73,163,67,137,null
+Tepig,498,498,65,63,45,45,45,45,308,Fire,null,NU,Blaze,null,Thick Fat,9.9,20,1 HP,28,Red,5120,M (87.5%),Field,null,45,1059860,null,498,498,null,null,null,4
+Terrakion,639,639,91,129,90,72,90,108,580,Rock,Fighting,OU,Justified,null,null,260,120,3 Atk,261,Gray,NONE,None,-,null,3,1250000,N,639,639,null,null,null,145
+Throh,538,538,120,100,85,30,85,45,465,Fighting,null,NU,Guts,Inner Focus,Mold Breaker,55.5,80,2 HP,163,Red,5120,M (100%),Human-Like,null,45,1000000,null,538,538,null,null,null,44
+Thundurus,642,642,79,115,70,125,80,111,580,Electric,Flying,OU,Prankster,null,Defiant,61,80,3 Atk,261,Blue,NONE,M (100%),-,null,3,1250000,N,642,642,null,null,null,148
+Timburr,532,532,75,80,55,25,35,35,305,Fighting,null,NU,Guts,Sheer Force,Iron Fist,12.5,40,1 Atk,61,Gray,5120,M (75%),Human-Like,null,180,1059860,null,532,532,null,null,null,38
+Tirtouga,564,564,54,78,103,53,45,22,355,Water,Rock,NU,Solid Rock,Sturdy,Swift Swim,16.5,40,1 Def,71,Blue,7680,M (87.5%),Water 1,Water 3,45,1000000,null,564,564,null,null,null,70
+Togekiss,468,204,85,50,95,120,115,80,545,Normal,Flying,UU,Hustle,Serene Grace,Super Luck,38,60,2 SpA/1 SpD,220,White,null,M (87.5%),Flying,Fairy,30,800000,Shiny Stone,204,468,null,null,175,null
+Togepi,175,202,35,20,65,40,65,20,245,Normal,null,NU,Hustle,Serene Grace,Super Luck,1.5,20,1 SpD,74,White,2560,M (87.5%),-,null,190,800000,null,202,175,46,null,173,null
+Togetic,176,203,55,40,85,80,105,40,405,Normal,Flying,NU,Hustle,Serene Grace,Super Luck,3.2,20,2 SpD,114,White,null,M (87.5%),Flying,Fairy,75,800000,Friendship,203,176,47,null,174,null
+Torchic,255,279,45,60,40,70,50,45,310,Fire,null,NU,Blaze,null,Speed Boost,2.5,20,1 SpA,65,Red,5120,M (87.5%),Field,null,45,1059860,null,279,255,null,4,null,null
+Torkoal,324,351,70,85,140,85,70,20,470,Fire,null,NU,White Smoke,null,Shell Armor,80.4,80,2 Def,161,Brown,5120,Neutral,Field,null,90,1000000,N,351,324,null,105,null,null
+Tornadus,641,641,79,115,70,125,80,111,580,Flying,null,OU,Prankster,null,Defiant,63,80,3 Atk,261,Green,NONE,M (100%),-,null,3,1250000,N,641,641,null,null,null,147
+Torterra,389,418,95,109,105,75,85,56,525,Grass,Ground,NU,Overgrow,null,Shell Armor,310,120,2 Atk/1 Def,208,Green,null,M (87.5%),Monster,Grass,45,1059860,Lv. 32,418,389,null,null,3,null
+Totodile,158,189,50,65,64,44,48,43,314,Water,null,NU,Torrent,null,Sheer Force,9.5,20,1 Atk,66,Blue,5120,M (87.5%),Monster,Water 1,45,1059860,null,189,158,7,null,null,null
+Toxicroak,454,473,83,106,65,86,65,85,490,Poison,Fighting,OU,Anticipate,Dry Skin,Poison Touch,44.4,60,2 Atk,181,Blue,null,Neutral,Human-Like,null,75,1000000,Lv. 37,473,454,null,null,130,null
+Tranquill,520,520,62,77,62,50,42,65,358,Normal,Flying,NU,Big Pecks,Super Luck,Rivalry,15,40,2 Atk,125,Gray,null,Neutral,Flying,null,120,1059860,Lv. 21,520,520,null,null,null,26
+Trapinch,328,355,45,100,45,45,45,10,290,Ground,null,NU,Hyper Cutter,Arena Trap,Sheer Force,15,40,1 Atk,73,Brown,5120,Neutral,Bug,null,255,1059860,null,355,328,null,116,null,null
+Treecko,252,276,40,45,35,65,55,70,310,Grass,null,NU,Overgrow,null,Unburden,5,20,1 Spe,65,Green,5120,M (87.5%),Monster,Dragon,45,1059860,null,276,252,null,1,null,null
+Tropius,357,385,99,68,83,72,87,51,460,Grass,Flying,NU,Chlorophyll,Solar Power,Harvest,100,100,2 HP,169,Green,6400,Neutral,Monster,Grass,200,1250000,N,385,357,null,150,185,null
+Trubbish,568,568,50,50,62,40,62,65,329,Poison,null,NU,Stench,Sticky Hold,Aftermath,31,60,1 Spe,66,Green,5120,Neutral,Mineral,null,190,1000000,null,568,568,null,null,null,74
+Turtwig,387,416,55,68,64,45,55,31,318,Grass,null,NU,Overgrow,null,Shell Armor,10.2,40,1 Atk,64,Green,5120,M (87.5%),Monster,Grass,45,1059860,null,416,387,null,null,1,null
+Tympole,535,535,50,50,40,50,40,64,294,Water,null,NU,Swift Swim,Hydration,Water Absorb,4.5,20,1 Spe,59,Blue,5120,Neutral,Water 1,null,255,1059860,null,535,535,null,null,null,41
+Tynamo,602,602,35,55,40,45,40,60,275,Electric,null,NU,Levitate,null,null,0.3,20,1 Spe,55,White,5120,Neutral,Amorphous,null,190,1250000,null,602,602,null,null,null,108
+Typhlosion,157,188,78,84,78,109,85,100,534,Fire,null,RU,Blaze,null,Flash Fire,79.5,80,3 SpA,209,Yellow,null,M (87.5%),Field,null,45,1059860,Lv. 36,188,157,6,null,null,null
+Tyranitar,248,272,100,134,110,95,100,61,600,Rock,Dark,OU,Sand Stream,null,Unnerve,202,120,3 Atk,218,Green,null,Neutral,Monster,null,45,1250000,Lv. 55,272,248,246,null,null,null
+Tyrogue,236,115,35,35,35,35,35,35,210,Fighting,null,NU,Guts,Steadfast,Vital Spirit,21,40,1Atk,91,Purple,6400,M (100%),-,null,75,1000000,null,115,236,143,null,null,null
+Umbreon,197,162,95,65,110,60,130,65,525,Dark,null,RU,Synchronize,null,Inner Focus,27,60,2 SpD,197,Black,null,M (87.5%),Field,null,45,1000000,Nite Friendship,162,197,185,null,168,null
+Unfezant,521,521,80,105,80,65,55,93,478,Normal,Flying,NU,Big Pecks,Super Luck,Rivalry,29,60,3 Atk,215,Gray,null,Neutral,Flying,null,45,1059860,Lv. 32,521,521,null,null,null,27
+Unown,201,230,48,72,48,72,48,48,336,Psychic,null,NU,Levitate,null,null,5,20,1 Atk/1 SpA,61,Black,NONE,None,-,null,225,1000000,N,230,201,61,null,114,null
+Ursaring,217,247,90,130,75,75,75,55,500,Normal,null,NU,Guts,Quick Feet,Unnerve,125.8,100,2 Atk,189,Brown,null,Neutral,Field,null,60,1000000,Lv. 30,247,217,194,null,null,null
+Uxie,480,480,75,75,130,75,130,95,580,Psychic,null,RU,Levitate,null,null,0.3,20,2 Def/1 SpD,210,Yellow,NONE,None,-,null,3,1250000,N,480,480,null,null,146,null
+Vanillish,583,583,51,65,65,80,75,59,395,Ice,null,NU,Ice Body,null,Weak Armor,41,60,2 SpA,138,White,null,Neutral,Mineral,null,120,1000000,Lv. 35,583,583,null,null,null,89
+Vanillite,582,582,36,50,50,65,60,44,305,Ice,null,NU,Ice Body,null,Weak Armor,5.7,20,1 SpA,61,White,5120,Neutral,Mineral,null,255,1000000,null,582,582,null,null,null,88
+Vanilluxe,584,584,71,95,85,110,95,79,535,Ice,null,NU,Ice Body,null,Weak Armor,57.5,80,3 SpA,241,White,null,Neutral,Mineral,null,45,1000000,Lv. 47,584,584,null,null,null,90
+Vaporeon,134,158,130,65,60,110,95,65,525,Water,null,OU,Water Absorb,null,Hydration,29,60,2 HP,196,Blue,null,M (87.5%),Field,null,45,1000000,Water Stone,158,134,181,null,164,null
+Venipede,543,543,30,45,59,30,39,57,260,Bug,Poison,NU,Poison Point,Swarm,Quick Feet,5.3,20,1 Def,52,Red,3840,Neutral,Bug,null,255,1059860,null,543,543,null,null,null,49
+Venomoth,49,54,70,65,60,90,75,90,450,Bug,Poison,RU,Shield Dust,Tinted Lens,Wonder Skin,12.5,40,1 SpA/1 Spe,138,Purple,null,Neutral,Bug,null,75,1000000,Lv. 31,54,49,109,null,null,null
+Venonat,48,53,60,55,50,40,55,45,305,Bug,Poison,NU,Compoundeyes,Tinted Lens,Run Away,30,60,1 SpD,75,Purple,5120,Neutral,Bug,null,190,1000000,null,53,48,108,null,null,null
+Venusaur,3,3,80,82,83,100,100,80,525,Grass,Poison,OU,Overgrow,null,Chlorophyll,100,100,2 SpA/1 SpD,208,Green,null,M (87.5%),Monster,Grass,45,1059860,Lv. 32,3,3,228,null,null,null
+Vespiquen,416,443,70,80,102,80,102,40,474,Bug,Flying,NU,Pressure,null,Unnerve,38.5,60,1 Def/1 SpD,188,Yellow,null,F (100%),Bug,null,45,1059860,Lv. 21F,443,416,null,null,54,null
+Vibrava,329,356,50,70,50,50,50,70,340,Ground,Dragon,NU,Levitate,null,null,15.3,40,1 Atk/1 Spe,126,Green,null,Neutral,Bug,null,120,1059860,Lv. 35,356,329,null,117,null,null
+Victini,494,494,100,100,100,100,100,100,600,Psychic,Fire,UU,Victory Star,null,null,4,20,3 HP,270,Yellow,NONE,None,-,null,3,1250000,N,494,494,null,null,null,0
+Victreebel,71,77,80,105,65,100,60,70,480,Grass,Poison,UU,Chlorophyll,null,Gluttony,15.5,40,3 Atk,191,Green,null,Neutral,Grass,null,45,1059860,Leaf Stone,77,71,66,null,null,null
+Vigoroth,288,313,80,80,80,55,55,90,440,Normal,null,NU,Vital Spirit,null,null,46.5,60,2 Spe,126,White,null,Neutral,Field,null,120,1250000,Lv. 18,313,288,null,37,null,null
+Vileplume,45,49,75,80,85,100,90,50,480,Grass,Poison,NU,Chlorophyll,null,Effect Spore,18.6,40,3 SpA,184,Red,null,Neutral,Grass,null,45,1059860,Leaf Stone,49,45,85,90,null,null
+Virizion,640,640,91,90,72,90,129,108,580,Grass,Fighting,OU,Justified,null,null,200,120,3 SpD,261,Green,NONE,None,-,null,3,1250000,N,640,640,null,null,null,146
+Volbeat,313,338,65,73,55,47,75,85,400,Bug,null,NU,Illuminate,Swarm,Prankster,17.7,40,1 Spe,146,Gray,3840,M (100%),Bug,Human-Like,150,600000,N,338,313,null,86,null,null
+Volcarona,637,637,85,60,65,135,105,100,550,Bug,Fire,OU,Flame Body,null,Swarm,46,60,3 SpA,248,White,null,Neutral,Bug,null,15,1250000,Lv. 59,637,637,null,null,null,143
+Voltorb,100,109,40,30,50,55,55,100,330,Electric,null,NU,Soundproof,Static,Aftermath,10.4,40,1 Spe,103,Red,5120,None,Mineral,null,190,1000000,null,109,100,120,84,null,null
+Vullaby,629,629,70,55,75,45,65,60,370,Dark,Flying,NU,Big Pecks,Overcoat,Weak Armor,9,20,1 Def,74,Brown,5120,F (100%),Flying,null,190,1250000,null,629,629,null,null,null,135
+Vulpix,37,39,38,41,40,50,65,65,299,Fire,null,UU,Flash Fire,null,Drought,9.9,20,1 Spe,63,Brown,5120,F (75%),Field,null,190,1000000,null,39,37,125,153,null,null
+Wailmer,320,347,130,70,35,70,35,60,400,Water,null,NU,Water Veil,Oblivious,Pressure,130,100,1 HP,137,Blue,10240,Neutral,Field,Water 2,125,1640000,null,347,320,null,99,null,null
+Wailord,321,348,170,90,45,90,45,60,500,Water,null,NU,Water Veil,Oblivious,Pressure,398,120,2 HP,206,Blue,null,Neutral,Field,Water 2,60,1640000,Lv. 40,348,321,null,100,null,null
+Walrein,365,394,110,80,90,95,90,65,530,Ice,Water,NU,Thick Fat,Ice Body,Oblivious,150.6,100,3 HP,192,Blue,null,Neutral,Water 1,Field,45,1059860,Lv. 44,394,365,null,175,null,null
+Wartortle,8,8,59,63,80,65,80,58,405,Water,null,NU,Torrent,null,Rain Dish,22.5,40,1 Def/1 SpD,143,Blue,null,M (87.5%),Monster,Water 1,45,1059860,Lv. 16,8,8,233,null,null,null
+Watchog,505,505,60,85,69,60,69,77,420,Normal,null,NU,Illuminate,Keen Eye,Analytic,27,60,1 Atk,147,Brown,null,Neutral,Field,null,255,1000000,Lv. 20,505,505,null,null,null,11
+Weavile,461,245,70,120,65,45,85,125,510,Dark,Ice,UU,Pressure,null,Pickpocket,34,60,1 Atk/1 Spe,199,Black,null,Neutral,Field,null,45,1059860,Nite Level h/ Razor Claw,245,461,null,null,145,null
+Weedle,13,13,40,35,30,20,20,50,195,Bug,Poison,NU,Shield Dust,null,Run Away,3.2,20,1 Spe,52,Brown,3840,Neutral,Bug,null,255,1000000,null,13,13,27,null,null,null
+Weepinbell,70,76,65,90,50,85,45,55,390,Grass,Poison,NU,Chlorophyll,null,Gluttony,6.4,20,2 Atk,151,Green,null,Neutral,Grass,null,120,1059860,Lv. 21,76,70,65,null,null,null
+Weezing,110,122,65,90,120,85,70,60,490,Poison,null,RU,Levitate,null,null,9.5,20,2 Def,173,Purple,null,Neutral,Amorphous,null,60,1000000,Lv. 35,122,110,115,109,null,null
+Whimsicott,547,547,60,67,85,77,75,116,480,Grass,null,OU,Prankster,Infiltrator,Chlorophyll,6.6,20,2 Spe,168,Green,null,Neutral,Grass,Fairy,75,1000000,Sun Stone,547,547,null,null,null,53
+Whirlipede,544,544,40,55,99,40,79,47,360,Bug,Poison,NU,Poison Point,Swarm,Quick Feet,58.5,80,2 Def,126,Gray,null,Neutral,Bug,null,120,1059860,Lv. 22,544,544,null,null,null,50
+Whiscash,340,367,110,78,73,76,71,60,468,Water,Ground,NU,Oblivious,Anticipate,Hydration,23.6,40,2 HP,158,Blue,null,Neutral,Water 2,null,75,1000000,Lv. 30,367,340,null,128,81,null
+Whismur,293,318,64,51,23,51,23,28,240,Normal,null,NU,Soundproof,null,Rattled,16.3,40,1 HP,68,Pink,5120,Neutral,Monster,Field,190,1059860,null,318,293,null,45,null,null
+Wigglytuff,40,43,140,70,45,75,50,45,425,Normal,null,NU,Cute Charm,null,Frisk,12,40,3 HP,109,Pink,null,F (75%),Fairy,null,50,800000,Moon Stone,43,40,45,139,null,null
+Wingull,278,302,40,30,30,55,30,85,270,Water,Flying,NU,Keen Eye,null,Rain Dish,9.5,20,1 Spe,64,White,5120,Neutral,Water 1,Flying,190,1000000,null,302,278,null,27,119,null
+Wobbuffet,202,232,190,33,58,33,58,33,405,Psychic,null,BL,Shadow Tag,null,Telepathy,28.5,60,2 HP,177,Blue,5120,Neutral,Amorphous,null,45,1000000,Lv. 15,232,202,107,161,null,null
+Woobat,527,527,55,45,43,55,43,72,313,Psychic,Flying,NU,Unaware,Klutz,Simple,2.1,20,1 Spe,63,Blue,3840,Neutral,Field,Flying,190,1000000,null,527,527,null,null,null,33
+Wooper,194,224,55,45,45,25,25,15,210,Water,Ground,NU,Damp,Water Absorb,Unaware,8.5,20,1 HP,52,Blue,5120,Neutral,Water 1,Field,255,1000000,null,224,194,56,null,117,null
+Wormadam_P,413,440,60,59,85,79,105,36,424,Bug,Grass,NU,Anticipate,null,Overcoat,6.5,20,2 SpD,159,Gray,null,F (100%),Bug,null,45,1000000,Lv. 20F Plant Cloak,440,413,null,null,46,null
+Wormadam_S,413.1,440.1,60,79,105,59,85,36,424,Bug,Ground,NU,Anticipate,null,Overcoat,6.5,20,2 SpD,159,Gray,null,F (100%),Bug,null,45,1000000,Lv. 20F Sand Cloak,440.1,413.1,null,null,46.1,null
+Wormadam_T,413.2,440.2,60,69,95,69,95,36,424,Bug,Steel,NU,Anticipate,null,Overcoat,6.5,20,2 SpD,159,Gray,null,F (100%),Bug,null,45,1000000,Lv. 20F Trash Cloak,440.2,413.2,null,null,46.2,null
+Wurmple,265,289,45,45,35,20,30,20,195,Bug,null,NU,Shield Dust,null,Run Away,3.6,20,1 HP,54,Red,3840,Neutral,Bug,null,255,1000000,null,289,265,null,14,48,null
+Wynaut,360,231,95,23,48,23,48,23,260,Psychic,null,NU,Shadow Tag,null,Telepathy,14,40,1 HP,44,Blue,5120,Neutral,-,null,125,1000000,null,231,360,null,160,null,null
+Xatu,178,206,65,75,70,95,70,95,470,Psychic,Flying,UU,Synchronize,Early Bird,Magic Bounce,15,40,1 SpA/1 Spe,171,Green,null,Neutral,Flying,null,75,1000000,Lv. 25,206,178,160,163,null,null
+Yamask,562,562,38,30,85,55,65,30,303,Ghost,null,NU,Mummy,null,null,1.5,20,1 Def,61,Black,6400,Neutral,Mineral,Amorphous,190,1000000,null,562,562,null,null,null,68
+Yanma,193,222,65,65,45,75,45,95,390,Bug,Flying,NU,Speed Boost,Compoundeyes,Frisk,38,60,2 Spe,147,Red,5120,Neutral,Bug,null,75,1000000,null,222,193,101,null,183,null
+Yanmega,469,223,86,76,86,116,56,95,515,Bug,Flying,RU,Speed Boost,Tinted Lens,Frisk,51.5,80,2 Atk,198,Green,null,Neutral,Bug,null,30,1000000,Level w/ Ancientpower,223,469,null,null,184,null
+Zangoose,335,362,73,115,60,60,60,90,458,Normal,null,NU,Immunity,null,Poison Rampage,40.3,60,2 Atk,165,White,5120,Neutral,Field,null,90,600000,N,362,335,null,123,null,null
+Zapdos,145,176,90,90,85,125,90,100,580,Electric,Flying,UU,Pressure,null,Lightningrod,52.6,80,3 SpA,216,Yellow,NONE,None,-,null,3,1250000,N,176,145,236,null,null,null
+Zebstrika,523,523,75,100,63,80,63,116,497,Electric,null,NU,Lightningrod,Motor Drive,Sap Sipper,79.5,80,2 Spe,174,Black,null,Neutral,Field,null,75,1000000,Lv. 27,523,523,null,null,null,29
+Zekrom,644,644,100,150,120,120,100,90,680,Dragon,Electric,Uber,Teravolt,null,null,345,120,3 Atk,306,Black,NONE,None,-,null,45,1250000,N,644,644,null,null,null,150
+Zigzagoon,263,287,38,30,41,30,41,60,240,Normal,null,NU,Pickup,Gluttony,Quick Feet,17.5,40,1 Spe,60,Brown,3840,Neutral,Field,null,255,1000000,null,287,263,null,12,null,null
+Zoroark,571,571,60,105,60,120,60,105,510,Dark,null,UU,Illusion,null,null,81.1,80,2 SpA,179,Gray,null,M (87.5%),Field,null,45,1059860,Lv. 30,571,571,null,null,null,77
+Zorua,570,570,40,65,40,80,40,65,330,Dark,null,NU,Illusion,null,null,12.5,40,1 SpA,66,Gray,6400,M (87.5%),Field,null,75,1059860,null,570,570,null,null,null,76
+Zubat,41,44,40,45,35,30,40,55,245,Poison,Flying,NU,Inner Focus,null,Infiltrator,7.5,20,1 Spe,54,Purple,3840,Neutral,Flying,null,255,1000000,null,44,41,37,63,28,null
+Zweilous,634,634,72,85,70,65,70,58,420,Dark,Dragon,NU,Hustle,null,null,50,80,2 Atk,147,Blue,null,Neutral,Dragon,null,45,1250000,Lv. 50,634,634,null,null,null,140

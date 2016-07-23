@@ -1,4 +1,3 @@
-POKéMON
-==============================================
+# POKéMON
 
-Gotta plot em all
+## Gotta plot em all

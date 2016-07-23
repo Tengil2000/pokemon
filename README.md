@@ -12,6 +12,8 @@ pokemon = Pokemon(PokemonType.Pidgey, state = State.asleep)
 pokemon = Pokemon(PokemonType.Pidgey) # for normal state 
 ```
 
+BTW, this project is not finished yet, so bugs may appear.
+
 ### Example of usage
 
 #### Simulation of catch rate generation I

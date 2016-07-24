@@ -10,27 +10,29 @@ from pokemon_type import PokemonType
 from enum import Enum
 import matplotlib.pyplot as plt
 from numpy import floor, ceil, sqrt
+import numpy as np
 
 class PokemonClass(Enum):
     """Class (Type) of Pokémon"""
-    null     = 1000
-    Bug      = 1100
-    Dark     = 1110
-    Dragon   = 1120
-    Electric = 1130
-    Fighting = 1140
-    Fire     = 1150
-    Flying   = 1160
-    Ghost    = 1170
-    Grass    = 1180
-    Ground   = 1190
-    Ice      = 1200
-    Normal   = 1210
-    Poison   = 1220
-    Psychic  = 1230
-    Rock     = 1240
-    Steel    = 1250
-    Water    = 1260
+    null     = -1
+    Normal   = 0
+    Fire     = 1
+    Water    = 2
+    Electric = 3
+    Grass    = 4
+    Ice      = 5
+    Fighting = 6
+    Poison   = 7
+    Ground   = 8
+    Flying   = 9
+    Psychic  = 10
+    Bug      = 11
+    Rock     = 12
+    Ghost    = 13
+    Dragon   = 14
+    Dark     = 15
+    Steel    = 16
+    Fairy    = 17
 
 
 
@@ -230,4 +232,38 @@ def getAvatar(pokemonType):
         print "file does not exist"
 
 
+class PokemonDefAttackMatrix():
+
+    def __init__(self):
+        # Nor Fir Wat Ele Gra ice Fig Poi Gro Fly Psy Bug Roc Gho Dra Dar Ste Fai
+        self.mat = np.matrix([ 
+            [1,	1,  1,  1,  1,	1,	1,	1,	1,	1,	1,	.5,	0,	1,	1,	.5,	1,  1],
+            [1, .5, .5,	1,  2,	2,	1,	1,	1,	1,	1,	2,	.5,	1,	.5,	1,	2,	1],
+            [1, 2,  .5,	1,  .5,	2,	1,	1,	2,	1,	1,	1,	2,	1,	.5,	1,	2,	1],
+            [1,	1,  2,  .5, .5,	1,	1,	1,	0,	2,	1,	1,	1,	1,	.5,	1,	1,	1],
+            [1, .5, 2,  1,  .5,	1,	1,	.5,	2,	.5,	1,	.5,	2,	1,	.5,	1,	.5,	1],
+            [1, .5, .5, 1,  2,	.5,	1,	1,	2,	2,	1,	1,	1,	1,	2,	1,	.5,	1],
+            [2,	1,  1,  1,  1,	2,	1,	.5,	1,	.5,	.5,	.5,	2,	0,	1,	2,	2,	.5],
+            [1,	1,  1,  1,	2,	1,	1,	.5,	.5,	1,	1,	1,	.5,	.5,	1,	1,	0,	2],
+            [1, 2,  1,  2,	.5,	1,	1,	2,	1,	0,	1,	.5,	2,	1,	1,	1,	2,	1],
+            [1,	1,  1,  .5,	2,	1,	2,	1,	1,	1,	1,	2,	.5,	1,	1,	1,	.5,	1],
+            [1,	1,  1,  1,	1,	1,  2,	2,	1,	1,	.5,	1,	1,	1,	1,	0,	.5,	1],
+            [1, .5,	1,  1,	2,	1,	.5,	.5,	1,	.5,	2,	1,	1,	.5, 1,	2,	.5,	.5],
+            [1, 2,  1,  1,	1,	2,	.5,	1,	.5,	2,	1,	2,	1,	1,	1,	1,	.5,	1],
+            [0,	1,  1,  1,	1,	1,	1,	1,	1,	1,	2,	1,	1,	2,	1,	.5,	1,	1],
+            [1,	1,  1,  1,	1,	1,	1,	1,	1,	1,	1,	1,	1,	1,  2,	1,	.5,	0],
+            [1,	1,  1,  1,  1,	1,  .5,	1,	1,	1,	2,	1,	1,	2,	1,	.5,	1,	.5],
+            [1, .5, .5, .5,	1,	2,	1,	1,	1,	1,	1,	1,	2,	1,	1,	1,	.5,	2],
+            [1,	.5, 1,  1,	1,	1,	2,	.5,	1,	1,	1,	1,	1,	1,	2,	2,	.5,	1] ])
+
+
+    def getAttack(self, attackClass, defendClass):
+        print self.mat[attackClass.value, defendClass.value]
+
+    def getDefense(self, attackClass, defendClass):
+        print self.mat[attackClass.value, defendClass.value]
+
+pokm = PokemonDefAttackMatrix() 
+pokm.getAttack(PokemonClass.Water, PokemonClass.Ground)
+pokm.getDefense(PokemonClass.Electric, PokemonClass.Water)
 

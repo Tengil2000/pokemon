@@ -82,7 +82,7 @@ pokemon_plot.plotPokemons(pokemonList)
 #### Compare Pokémon classes
 Compare different Pokémon classes in a spider net plot. Just get the Pokémon class/type and compare them with:
 
-```` python
+``` python
 import pokemon_plot 
 
 pokemon_plot.compare_classes([PokemonClass.Grass, PokemonClass.Electric])

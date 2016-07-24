@@ -4,7 +4,7 @@
 Various tests for the Pokémon code.
 Begun 2016-07-15 Alexander Karlsson
 ----------------------------------------------------------------------- """
-from pokemon import Pokemon, State, PokemonAttribute, PokemonClass
+from pokemon import Pokemon, State, PokeAttribute, PokeLogic, PokemonClass
 import pokemon
 from pokemon_type import PokemonType
 import numpy as np
@@ -122,57 +122,49 @@ class PokemonUnitTests(unittest.TestCase):
     """ ------------------------------------------------------------------------------
     Test getting pokemons from file defined by some attribute
     ------------------------------------------------------------------------------ """
-    def test_natIdxLessTan(self):
-        pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.natIdxLessThan, 10)
+    def test_natIdxLessThan(self):
+        pokemons = pokemon.find_pokemons_by(PokeAttribute.id, PokeLogic.lessThan, 10)
         self.assertTrue(pokemons[0].pokemontype == PokemonType.Bulbasaur)
 
     def test_natIdxEquals(self):
-        pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.natIdxEquals, 50)
+        pokemons = pokemon.find_pokemons_by(PokeAttribute.id, PokeLogic.equals, 50)
         self.assertTrue(len(pokemons) == 1)
 
     def test_natIdxGreaterThan(self):
-        pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.natIdxGreaterThan, 648.5)
+        pokemons = pokemon.find_pokemons_by(PokeAttribute.id, PokeLogic.largerThan, 648.5)
         self.assertTrue(pokemons[0].pokemontype == PokemonType.Genesect and len(pokemons) == 1)
 
     def test_hpLessThan(self):
-        pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.hpLessThan, 20)
+        pokemons = pokemon.find_pokemons_by(PokeAttribute.hp, PokeLogic.lessThan, 20)
         self.assertTrue(len(pokemons) == 2 and pokemons[0].HP < 20)
 
     def test_hpEquals(self):
-        pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.hpEquals, 20)
+        pokemons = pokemon.find_pokemons_by(PokeAttribute.hp, PokeLogic.equals, 20)
         self.assertTrue(len(pokemons) == 6 and pokemons[0].HP == 20)
 
     def test_hpGreaterThan(self):
-        pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.hpGreaterThan, 170)
+        pokemons = pokemon.find_pokemons_by(PokeAttribute.hp, PokeLogic.largerThan, 170)
         self.assertTrue(len(pokemons) == 3 and pokemons[0].HP > 170)
 
     def test_attackLessThan(self):
-        pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.attackLessThan, 10)
+        pokemons = pokemon.find_pokemons_by(PokeAttribute.attack, PokeLogic.lessThan, 10)
         self.assertTrue(len(pokemons) == 2 and pokemons[0].attack < 10)
 
     def test_attackEquals(self):
-        pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.attackEquals, 10)
+        pokemons = pokemon.find_pokemons_by(PokeAttribute.attack, PokeLogic.equals, 10)
         self.assertTrue(len(pokemons) == 3 and pokemons[0].attack == 10)
 
     def test_attackGreaterThan(self):
-        pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.attackGreaterThan, 160)
+        pokemons = pokemon.find_pokemons_by(PokeAttribute.attack, PokeLogic.largerThan, 160)
         self.assertTrue(len(pokemons) == 2 and pokemons[0].attack > 160)
 
     def test_defenseLessThan(self):
-        pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.defenseLessThan, 10)
+        pokemons = pokemon.find_pokemons_by(PokeAttribute.defense, PokeLogic.lessThan, 10)
         self.assertTrue(len(pokemons) == 2 and pokemons[0].defense < 10)
 
     def test_defenseEquals(self):
-        pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.defenseEquals, 15)
+        pokemons = pokemon.find_pokemons_by(PokeAttribute.defense, PokeLogic.equals, 15)
         self.assertTrue(len(pokemons) == 4 and pokemons[0].defense == 15)
-
-    def test_defenseGreaterThan(self):
-        pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.defenseGreaterThan, 180)
-        self.assertTrue(len(pokemons) == 3 and pokemons[0].defense > 180)
-
-    def test_classBelonging(self):
-        pokemons = pokemon.find_pokemons_by_class(PokemonClass.Steel)
-        self.assertTrue(len(pokemons) == 38 and pokemons[0].class1 == PokemonClass.Steel)
 
 
     """ ------------------------------------------------------------------------------
@@ -348,15 +340,15 @@ if __name__ == '__main__':
     #test_pokemon_capture_gen1()
     #test_pokemon_capture_gen2()
     #test_plotPokemon()
-    test_plotPokemons()
+    #test_plotPokemons()
     #test_compare_classes()
     #test_show_avatar()
     #test_plotSinglePokemon()
-    #unittest.main()
+    unittest.main()
 
 
 
 
 # TODO
-# Finish pokemon.find_pokemons_with_attributes
+# Finish pokemon.find_pokemons_by
 # Implement SQLite database support for getting Pokemons

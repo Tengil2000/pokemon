@@ -4,7 +4,6 @@
 Main objects and functions for creating Pokémon objects.
 Begun 2016-07-15 Alexander Karlsson
 ----------------------------------------------------------------------- """
-import csv
 import sqlite3
 from pokemon_type import PokemonType
 from enum import Enum
@@ -118,60 +117,49 @@ def get_pokemon_from_sql(pokemontpye):
 
 
 
-class PokemonAttribute(Enum):
-    natIdxLessThan      = 100
-    natIdxEquals        = 101
-    natIdxGreaterThan   = 102
-    
-    hpLessThan          = 300
-    hpEquals            = 301
-    hpGreaterThan       = 302
+class PokeLogic(Enum):
+    lessThan       = '<'
+    equals         = '='
+    largerThan     = '>'
 
-    attackLessThan      = 400
-    attackEquals        = 401
-    attackGreaterThan   = 402
+class PokeAttribute(Enum):
+    id             = 'id'
+    hp             = 'hp'
+    attack         = 'attack'
+    defense        = 'defense'
+    sp_attack      = 'sp_attack'
+    sp_defense     = 'sp_defense'
+    speed          = 'speed'
+    total          = 'total'
+    class1         = 'class1'
+    class2         = 'class2'
+    ability1       = 'ability1'
+    ability2       = 'ability2'
+    hidden_ability = 'hidden_ability'
+    mass_kilo      = 'mass_kilo'
+    mass_lbs       = 'mass_lbs'
+    color          = 'color'
+    gender         = 'gender'
+    catch_rate     = 'catch_rate' 
 
-    defenseLessThan     = 500
-    defenseEquals       = 501
-    defenseGreaterThan  = 502
-
-    spAttackLessThan    = 600
-    spAttackEquals      = 601
-    spAttackGreaterThan = 602
 
 
 
-
-def find_pokemons_with_attributes(attribute, value):
+def find_pokemons_by(attribute, logic, value):
     """Finds Pokémons with the valid attributes"""
     pokemons = []
 
-    with open('pokemon/pokedex.csv', 'rb') as csvfile:
-        reader = csv.reader(csvfile, delimiter=',')
-        for feats in reader:
-            natIdx    = float(feats[1])
-            hpVal     = int(feats[3])
-            attackVal = int(feats[4])
-            defense   = int(feats[5])
+    if isinstance(value, PokemonClass):
+        value = value.name
 
-            tests = {
-                    PokemonAttribute.natIdxLessThan.name:     natIdx < value,
-                    PokemonAttribute.natIdxEquals.name:       natIdx == value,
-                    PokemonAttribute.natIdxGreaterThan.name:  natIdx > value,
-                    PokemonAttribute.hpLessThan.name:         hpVal < value,
-                    PokemonAttribute.hpEquals.name:           hpVal == value,
-                    PokemonAttribute.hpGreaterThan.name:      hpVal > value,
-                    PokemonAttribute.attackLessThan.name:     attackVal < value,
-                    PokemonAttribute.attackEquals.name:       attackVal == value,
-                    PokemonAttribute.attackGreaterThan.name:  attackVal > value,
-                    PokemonAttribute.defenseLessThan.name:    defense < value,
-                    PokemonAttribute.defenseEquals.name:      defense == value,
-                    PokemonAttribute.defenseGreaterThan.name: defense > value,
-                    }
-            
-            if tests[attribute.name]:
-                pokemons.append(Pokemon(PokemonType(natIdx), State.normal))
+    conn = sqlite3.connect('pokemon/pokemon_sql.db')
+    exe =  str("SELECT * FROM POKEMON WHERE ") + str(attribute.value) + " " + logic.value + " ?"
+    cursor = conn.execute(exe, (value, ))
+    
+    for row in cursor:
+        pokemons.append(Pokemon(PokemonType(row[1])))
 
+    conn.close()
     return pokemons
 
 

@@ -235,7 +235,7 @@ def getAvatar(pokemonType):
 
 
 class PokemonMatrix():
-    """ A matrix that represents strengths and weakness of the various pokemon types
+    """ A matrix that represents strengths and weaknesses of the various pokemon types
         This matrix is for generation 6. There should not be much different in the
         generations, only additional pokemon types in the higher generations. 
         For instance Fairy is not present in a generation 2-5 matrix.

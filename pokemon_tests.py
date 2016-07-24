@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*- 
+# -*- coding: utf-8 -*-
 """ -----------------------------------------------------------------------
 Various tests for the Pokémon code.
 Begun 2016-07-15 Alexander Karlsson
@@ -7,13 +7,13 @@ Begun 2016-07-15 Alexander Karlsson
 from pokemon import Pokemon, State, PokemonAttribute, PokemonClass
 import pokemon
 from pokemon_type import PokemonType
-import pokemon_plot
 import numpy as np
 from pokemon_capture import *
 import matplotlib.pyplot as plt
 from pokemon_balls import PokemonType
 import unittest
 import pokemon_balls
+import pokemon_plot
 
 def test_pokemon_capture_gen1():
     """Test simulation of capturing Pokémons of catch algorithm generation 1"""
@@ -30,7 +30,7 @@ def test_pokemon_capture_gen1():
         shake_sum = 0
         pokemon.HPcurrent = i
 
-        for j in range(400): 
+        for j in range(400):
             a, b = capture_simulation_gen1(BallType.UltraBall, pokemon)
             catch_sum += float(a/4.0)
 
@@ -63,10 +63,10 @@ def test_pokemon_capture_gen2():
         for j in range(1000):
             a = capture_simulation_gen2(pokemon, BallType.MasterBall)
             catch_sum += a
-            
+
         catch_arr.append(catch_sum/10)
-    
-    
+
+
     fig, ax = plt.subplots()
     fig.suptitle('Pokemon gen2 simulation', fontsize=17, fontweight='bold')
     ax.set_title(pokemon.name, fontsize=16)
@@ -125,11 +125,11 @@ class PokemonUnitTests(unittest.TestCase):
     def test_natIdxLessTan(self):
         pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.natIdxLessThan, 10)
         self.assertTrue(pokemons[0].pokemontype == PokemonType.Bulbasaur)
-    
+
     def test_natIdxEquals(self):
         pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.natIdxEquals, 50)
         self.assertTrue(len(pokemons) == 1)
-        
+
     def test_natIdxGreaterThan(self):
         pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.natIdxGreaterThan, 648.5)
         self.assertTrue(pokemons[0].pokemontype == PokemonType.Genesect and len(pokemons) == 1)
@@ -137,23 +137,23 @@ class PokemonUnitTests(unittest.TestCase):
     def test_hpLessThan(self):
         pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.hpLessThan, 20)
         self.assertTrue(len(pokemons) == 2 and pokemons[0].HP < 20)
-        
+
     def test_hpEquals(self):
         pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.hpEquals, 20)
         self.assertTrue(len(pokemons) == 6 and pokemons[0].HP == 20)
-        
+
     def test_hpGreaterThan(self):
         pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.hpGreaterThan, 170)
         self.assertTrue(len(pokemons) == 3 and pokemons[0].HP > 170)
 
     def test_attackLessThan(self):
         pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.attackLessThan, 10)
-        self.assertTrue(len(pokemons) == 2 and pokemons[0].attack < 10)  
+        self.assertTrue(len(pokemons) == 2 and pokemons[0].attack < 10)
 
     def test_attackEquals(self):
         pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.attackEquals, 10)
         self.assertTrue(len(pokemons) == 3 and pokemons[0].attack == 10)
-        
+
     def test_attackGreaterThan(self):
         pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.attackGreaterThan, 160)
         self.assertTrue(len(pokemons) == 2 and pokemons[0].attack > 160)
@@ -161,11 +161,11 @@ class PokemonUnitTests(unittest.TestCase):
     def test_defenseLessThan(self):
         pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.defenseLessThan, 10)
         self.assertTrue(len(pokemons) == 2 and pokemons[0].defense < 10)
-        
+
     def test_defenseEquals(self):
         pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.defenseEquals, 15)
         self.assertTrue(len(pokemons) == 4 and pokemons[0].defense == 15)
-       
+
     def test_defenseGreaterThan(self):
         pokemons = pokemon.find_pokemons_with_attributes(PokemonAttribute.defenseGreaterThan, 180)
         self.assertTrue(len(pokemons) == 3 and pokemons[0].defense > 180)
@@ -190,11 +190,11 @@ class PokemonUnitTests(unittest.TestCase):
         p.defense_EV = 17280
         p.sp_IV      = 9
         p.sp_EV      = 19625
-        
+
         pokemon.update_pokemon_gen2(p)
-        self.assertTrue(p.HP == 189.0 and p.attack == 137.0 and p.defense == 101.0 
+        self.assertTrue(p.HP == 189.0 and p.attack == 137.0 and p.defense == 101.0
             and p.sp_attack == 128.0 and p.sp_defense == 112.0)
-    
+
     """ ------------------------------------------------------------------------------
     Test balls
     ------------------------------------------------------------------------------ """
@@ -206,18 +206,18 @@ class PokemonUnitTests(unittest.TestCase):
     # -----------------------------------------------------------------------------------
 
     def test_pokeball(self):
-        self.assertEqual(ballCatchRateGen1(BallType.PokeBall) == 255 
+        self.assertEqual(ballCatchRateGen1(BallType.PokeBall) == 255
             and self.catchRate(BallType.PokeBall), (1, True))
-        
+
     def test_ultraball(self):
-        self.assertEqual(ballCatchRateGen1(BallType.UltraBall) == 150 
+        self.assertEqual(ballCatchRateGen1(BallType.UltraBall) == 150
             and self.catchRate(BallType.UltraBall), (2.5, True))
 
     def test_masterball(self):
         self.assertEqual(self.catchRate(BallType.MasterBall), (255, True))
 
     def test_safariball(self):
-        self.assertTrue(ballCatchRateGen1(BallType.SafariBall)== 150 
+        self.assertTrue(ballCatchRateGen1(BallType.SafariBall)== 150
         and self.catchRate(BallType.SafariBall) == (1.5, True))
 
     def test_levelball(self):
@@ -234,7 +234,7 @@ class PokemonUnitTests(unittest.TestCase):
         self.assertEqual(self.catchRate(BallType.LevelBall, a, b), (4, True))
         a.level = 9
         self.assertEqual(self.catchRate(BallType.LevelBall, a, b), (8, True))
- 
+
     def test_lureBall(self):
         self.assertTrue(self.catchRate(BallType.Lureball, ev=SpecialEvent.isFishing), (3, True))
         self.assertTrue(self.catchRate(BallType.Lureball), (1, True))
@@ -242,12 +242,12 @@ class PokemonUnitTests(unittest.TestCase):
     def test_moonBall(self):
         self.assertEqual(self.catchRate(BallType.MoonBall, wild = Pokemon(PokemonType.Nidoran_Male)), (4, True))
         self.assertEqual(self.catchRate(BallType.MoonBall, wild = Pokemon(PokemonType.Nidoran_Female)), (4, True))
-        self.assertEqual(self.catchRate(BallType.MoonBall, wild = Pokemon(PokemonType.Clefairy)), (4, True))        
-        self.assertEqual(self.catchRate(BallType.MoonBall, wild = Pokemon(PokemonType.Jigglypuff)), (4, True))       
+        self.assertEqual(self.catchRate(BallType.MoonBall, wild = Pokemon(PokemonType.Clefairy)), (4, True))
+        self.assertEqual(self.catchRate(BallType.MoonBall, wild = Pokemon(PokemonType.Jigglypuff)), (4, True))
         self.assertEqual(self.catchRate(BallType.MoonBall, wild = Pokemon(PokemonType.Skitty)), (4, True))
         self.assertEqual(self.catchRate(BallType.MoonBall, wild = Pokemon(PokemonType.Happiny)), (1, True))
         self.assertNotEqual(self.catchRate(BallType.MoonBall, wild = Pokemon(PokemonType.Clefairy)), (1, True))
-        
+
     def test_LoveBall(self):
         poks1 = pokemon.find_pokemons_by_class(PokemonClass.Dragon)
         poks2 = pokemon.find_pokemons_by_class(PokemonClass.Electric)
@@ -257,7 +257,7 @@ class PokemonUnitTests(unittest.TestCase):
 
     def test_heavyBall(self):
         pok1 = Pokemon(PokemonType.Meganium)
-        self.assertEqual(self.catchRate(BallType.HeavyBall, wild = pok1), (-20, False))   
+        self.assertEqual(self.catchRate(BallType.HeavyBall, wild = pok1), (-20, False))
         pok2 = Pokemon(PokemonType.Registeel)
         self.assertEqual(self.catchRate(BallType.HeavyBall, wild = pok2), (20, False))
         pok3 = Pokemon(PokemonType.Hippowdon)
@@ -293,7 +293,7 @@ class PokemonUnitTests(unittest.TestCase):
     def test_repeatBall(self):
         self.assertEqual(self.catchRate(BallType.RepeatBall, ev = SpecialEvent.isInPokedex), (3, True))
         self.assertEqual(self.catchRate(BallType.RepeatBall), (1, True))
-                
+
     def test_nestball(self):
         pok = Pokemon(PokemonType.Audino)
         pok.level = 29.999999
@@ -348,7 +348,7 @@ if __name__ == '__main__':
     #test_pokemon_capture_gen1()
     #test_pokemon_capture_gen2()
     #test_plotPokemon()
-    #test_plotPokemons()
+    test_plotPokemons()
     #test_compare_classes()
     #test_show_avatar()
     #test_plotSinglePokemon()

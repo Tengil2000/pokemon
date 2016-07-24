@@ -232,29 +232,38 @@ def getAvatar(pokemonType):
         print "file does not exist"
 
 
-class PokemonDefAttackMatrix():
 
+
+class PokemonMatrix():
+    """ A matrix that represents strengths and weakness of the various pokemon types
+        This matrix is for generation 6. There should not be much different in the
+        generations, only additional pokemon types in the higher generations. 
+        For instance Fairy is not present in a generation 2-5 matrix.
+    """
     def __init__(self):
-        # Nor Fir Wat Ele Gra ice Fig Poi Gro Fly Psy Bug Roc Gho Dra Dar Ste Fai
+        #   Nor Fir Wat Ele Gra ice Fig Poi Gro Fly Psy Bug Roc Gho Dra Dar Ste Fai
+        # |----> Defense
+        # |
+        # V Attack
         self.mat = np.matrix([ 
-            [1,	1,  1,  1,  1,	1,	1,	1,	1,	1,	1,	.5,	0,	1,	1,	.5,	1,  1],
+            [1, 1,  1,  1,  1,	1,	1,	1,	1,	1,	1,	.5,	0,	1,	1,	.5,	1,  1],
             [1, .5, .5,	1,  2,	2,	1,	1,	1,	1,	1,	2,	.5,	1,	.5,	1,	2,	1],
             [1, 2,  .5,	1,  .5,	2,	1,	1,	2,	1,	1,	1,	2,	1,	.5,	1,	2,	1],
-            [1,	1,  2,  .5, .5,	1,	1,	1,	0,	2,	1,	1,	1,	1,	.5,	1,	1,	1],
+            [1, 1,  2,  .5, .5,	1,	1,	1,	0,	2,	1,	1,	1,	1,	.5,	1,	1,	1],
             [1, .5, 2,  1,  .5,	1,	1,	.5,	2,	.5,	1,	.5,	2,	1,	.5,	1,	.5,	1],
             [1, .5, .5, 1,  2,	.5,	1,	1,	2,	2,	1,	1,	1,	1,	2,	1,	.5,	1],
-            [2,	1,  1,  1,  1,	2,	1,	.5,	1,	.5,	.5,	.5,	2,	0,	1,	2,	2,	.5],
-            [1,	1,  1,  1,	2,	1,	1,	.5,	.5,	1,	1,	1,	.5,	.5,	1,	1,	0,	2],
+            [2, 1,  1,  1,  1,	2,	1,	.5,	1,	.5,	.5,	.5,	2,	0,	1,	2,	2,	.5],
+            [1, 1,  1,  1,	2,	1,	1,	.5,	.5,	1,	1,	1,	.5,	.5,	1,	1,	0,	2],
             [1, 2,  1,  2,	.5,	1,	1,	2,	1,	0,	1,	.5,	2,	1,	1,	1,	2,	1],
-            [1,	1,  1,  .5,	2,	1,	2,	1,	1,	1,	1,	2,	.5,	1,	1,	1,	.5,	1],
-            [1,	1,  1,  1,	1,	1,  2,	2,	1,	1,	.5,	1,	1,	1,	1,	0,	.5,	1],
+            [1, 1,  1,  .5,	2,	1,	2,	1,	1,	1,	1,	2,	.5,	1,	1,	1,	.5,	1],
+            [1, 1,  1,  1,	1,	1,  2,	2,	1,	1,	.5,	1,	1,	1,	1,	0,	.5,	1],
             [1, .5,	1,  1,	2,	1,	.5,	.5,	1,	.5,	2,	1,	1,	.5, 1,	2,	.5,	.5],
             [1, 2,  1,  1,	1,	2,	.5,	1,	.5,	2,	1,	2,	1,	1,	1,	1,	.5,	1],
-            [0,	1,  1,  1,	1,	1,	1,	1,	1,	1,	2,	1,	1,	2,	1,	.5,	1,	1],
-            [1,	1,  1,  1,	1,	1,	1,	1,	1,	1,	1,	1,	1,	1,  2,	1,	.5,	0],
-            [1,	1,  1,  1,  1,	1,  .5,	1,	1,	1,	2,	1,	1,	2,	1,	.5,	1,	.5],
+            [0, 1,  1,  1,	1,	1,	1,	1,	1,	1,	2,	1,	1,	2,	1,	.5,	1,	1],
+            [1, 1,  1,  1,	1,	1,	1,	1,	1,	1,	1,	1,	1,	1,  2,	1,	.5,	0],
+            [1, 1,  1,  1,  1,	1,  .5,	1,	1,	1,	2,	1,	1,	2,	1,	.5,	1,	.5],
             [1, .5, .5, .5,	1,	2,	1,	1,	1,	1,	1,	1,	2,	1,	1,	1,	.5,	2],
-            [1,	.5, 1,  1,	1,	1,	2,	.5,	1,	1,	1,	1,	1,	1,	2,	2,	.5,	1] ])
+            [1, .5, 1,  1,	1,	1,	2,	.5,	1,	1,	1,	1,	1,	1,	2,	2,	.5,	1] ])
 
 
     def getAttack(self, attackClass, defendClass):
@@ -262,8 +271,3 @@ class PokemonDefAttackMatrix():
 
     def getDefense(self, attackClass, defendClass):
         print self.mat[attackClass.value, defendClass.value]
-
-pokm = PokemonDefAttackMatrix() 
-pokm.getAttack(PokemonClass.Water, PokemonClass.Ground)
-pokm.getDefense(PokemonClass.Electric, PokemonClass.Water)
-

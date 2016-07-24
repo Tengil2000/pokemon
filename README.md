@@ -91,3 +91,52 @@ pokemon_plot.compare_classes([PokemonClass.Grass, PokemonClass.Electric])
 <p align="center">
 <img src="images/compare_classes.png" height="450" alt="Screenshot"/>
 </p>
+
+#### Easy database lookup
+Retrieve pokemons by some attribute and logic operator.
+
+##### Example 1:
+
+``` python
+# Get all pokemons with attack larger than 140
+pokemons = pokemon.find_pokemons_by(PokeAttribute.attack, PokeLogic.largerThan, 140)
+
+for p in pokemons:
+    print p.name
+``` 
+Output:
+``` bash
+Deoxys_A
+Deoxys_N
+Groudon
+Haxorus
+Rampardos
+Rayquaza
+Regigigas
+Slaking
+Zekrom
+```
+##### Example 2:
+
+``` python
+# Get all pokemons with mass less than 0.4
+pokemons = pokemon.find_pokemons_by(PokeAttribute.mass_kilo, PokeLogic.lessThan, 0.4)
+
+for p in pokemons:
+    print p.name
+```
+Output:
+``` bash
+Azelf
+Gastly
+Haunter
+Mesprit
+Rotom
+Rotom_Cut
+Rotom_Frost
+Rotom_Heat
+Rotom_Spin
+Rotom_Wash
+Tynamo
+Uxie
+```

@@ -116,7 +116,6 @@ def test_plotSinglePokemon():
     #pokemon_plot.plotPokemon(p)
 
 
-
 class PokemonUnitTests(unittest.TestCase):
 
     """ ------------------------------------------------------------------------------

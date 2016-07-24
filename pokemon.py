@@ -219,7 +219,7 @@ def getAvatar(pokemonType):
     except:
         print "file does not exist"
 
-
+ 
 
 
 class PokemonMatrix():
